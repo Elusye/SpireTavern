@@ -1,0 +1,16 @@
+ssh/
+*.pem
+*.key
+.env
+*.env
+node_modules/
+venv/
+logs/
+*.log
+*.zip
+*.bak*
+**/toys_data/
+players.json
+bottles.json
+admins.json
+__pycache__/
