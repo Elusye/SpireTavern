@@ -1,6 +1,8 @@
-# QQBot
+# SpireTavern
 
-面向QQ群聊的官方机器人源码快照，更新至2026-11-23已上线版本。运行基于dsh、@tencent-connect/dsh-qqbot和Node.js 22，原版对战桥接使用Python及独立Linux游戏进程，图片生成使用Pillow和中文字体。
+**SpireTavern** 是面向 QQ 群聊的尖塔卡牌酒馆：群友可以保存自己的职业牌组、抽卡、升级，并发起自动卡牌对战，也可以与猫娘机器人闲聊。
+
+本仓库保存截至 2026-11-23 已上线版本的源码。运行基于dsh、@tencent-connect/dsh-qqbot和Node.js 22，原版对战桥接使用Python及独立Linux游戏进程，图片生成使用Pillow和中文字体。
 
 ## 当前功能
 
