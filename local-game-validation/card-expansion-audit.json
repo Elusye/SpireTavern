@@ -1,0 +1,332 @@
+{
+  "Ironclad": {
+    "currentNonStarter": 50,
+    "remainingEligible": 30,
+    "candidates": [
+      "Aggression",
+      "Armaments",
+      "Cascade",
+      "Colossus",
+      "ExpectAFight",
+      "Feed",
+      "FiendFire",
+      "FightMe",
+      "FlameBarrier",
+      "Havoc",
+      "Hellraiser",
+      "HowlFromBeyond",
+      "InfernalBlade",
+      "Inferno",
+      "Juggernaut",
+      "Juggling",
+      "OneTwoPunch",
+      "PerfectedStrike",
+      "Pillage",
+      "PrimalForce",
+      "Rage",
+      "Rupture",
+      "Spite",
+      "Stampede",
+      "Stoke",
+      "StoneArmor",
+      "TearAsunder",
+      "Thrash",
+      "Unmovable",
+      "Vicious"
+    ],
+    "excluded": [
+      {
+        "name": "Blaze",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Break",
+        "reason": "ancient"
+      },
+      {
+        "name": "Corruption",
+        "reason": "ancient"
+      },
+      {
+        "name": "DemonicShield",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Midnight",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Outrage",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Tank",
+        "reason": "multiplayer"
+      }
+    ]
+  },
+  "Silent": {
+    "currentNonStarter": 50,
+    "remainingEligible": 30,
+    "candidates": [
+      "BladeOfInk",
+      "BulletTime",
+      "Burst",
+      "CalculatedGamble",
+      "CorrosiveWave",
+      "EchoingSlash",
+      "EscapePlan",
+      "Expertise",
+      "Expose",
+      "FanOfKnives",
+      "HandTrick",
+      "HiddenDaggers",
+      "KnifeTrap",
+      "Malaise",
+      "MasterPlanner",
+      "Nightmare",
+      "Outbreak",
+      "PhantomBlades",
+      "PreciseCut",
+      "Reflex",
+      "SerpentForm",
+      "ShadowStep",
+      "Sidestep",
+      "Speedster",
+      "StormOfSteel",
+      "Strangle",
+      "Tactician",
+      "TheHunt",
+      "ToolsOfTheTrade",
+      "WellLaidPlans"
+    ],
+    "excluded": [
+      {
+        "name": "BladeSymphony",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Concoct",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Fade",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Flanking",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Sneaky",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Suppress",
+        "reason": "ancient"
+      },
+      {
+        "name": "WraithForm",
+        "reason": "ancient"
+      }
+    ]
+  },
+  "Regent": {
+    "currentNonStarter": 50,
+    "remainingEligible": 30,
+    "candidates": [
+      "Arsenal",
+      "BeatIntoShape",
+      "Begone",
+      "Bombardment",
+      "BundleOfJoy",
+      "Charge",
+      "DecisionsDecisions",
+      "ForegoneConclusion",
+      "Glimmer",
+      "Guards",
+      "HeavenlyDrill",
+      "HeirloomHammer",
+      "IAmInvincible",
+      "KnockoutBlow",
+      "MakeItSo",
+      "ManifestAuthority",
+      "MonarchsGaze",
+      "Orbit",
+      "PaleBlueDot",
+      "ParticleWall",
+      "PillarOfCreation",
+      "Quasar",
+      "Reflect",
+      "Royalties",
+      "SpectrumShift",
+      "SummonForth",
+      "Supermassive",
+      "SwordSage",
+      "Tyranny",
+      "VoidForm"
+    ],
+    "excluded": [
+      {
+        "name": "Constellation",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "HammerTime",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Largesse",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "MeteorShower",
+        "reason": "ancient"
+      },
+      {
+        "name": "Plot",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "TheSealedThrone",
+        "reason": "ancient"
+      },
+      {
+        "name": "Tutor",
+        "reason": "multiplayer"
+      }
+    ]
+  },
+  "Necrobinder": {
+    "currentNonStarter": 50,
+    "remainingEligible": 30,
+    "candidates": [
+      "BansheesCry",
+      "CallOfTheVoid",
+      "DanseMacabre",
+      "Debilitate",
+      "DrainPower",
+      "Eidolon",
+      "EndOfDays",
+      "Hang",
+      "Lethality",
+      "Melancholy",
+      "Misery",
+      "NecroMastery",
+      "Neurosurge",
+      "Pagestorm",
+      "PullFromBelow",
+      "ReaperForm",
+      "RightHandHand",
+      "Sacrifice",
+      "SculptingStrike",
+      "SentryMode",
+      "SharedFate",
+      "Shroud",
+      "SicEm",
+      "SleightOfFlesh",
+      "Snap",
+      "SpiritOfAsh",
+      "Squeeze",
+      "TheScythe",
+      "Transfigure",
+      "Veilpiercer"
+    ],
+    "excluded": [
+      {
+        "name": "Cacophony",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "ForbiddenGrimoire",
+        "reason": "ancient"
+      },
+      {
+        "name": "GlimpseBeyond",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "LegionOfBone",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Protector",
+        "reason": "ancient"
+      },
+      {
+        "name": "Soulbound",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Underworld",
+        "reason": "multiplayer"
+      }
+    ]
+  },
+  "Defect": {
+    "currentNonStarter": 50,
+    "remainingEligible": 30,
+    "candidates": [
+      "AdaptiveStrike",
+      "AllForOne",
+      "Chaos",
+      "Compact",
+      "ConsumingShadow",
+      "CreativeAi",
+      "EchoForm",
+      "Feral",
+      "FlakCannon",
+      "GeneticAlgorithm",
+      "GunkUp",
+      "HelixDrill",
+      "Iteration",
+      "MeteorStrike",
+      "Reboot",
+      "RocketPunch",
+      "Scavenge",
+      "Scrape",
+      "Shatter",
+      "SignalBoost",
+      "Smokestack",
+      "Spinner",
+      "Storm",
+      "Subroutine",
+      "Sunder",
+      "Thunder",
+      "TrashToTreasure",
+      "Uproar",
+      "Voltaic",
+      "WhiteNoise"
+    ],
+    "excluded": [
+      {
+        "name": "BiasedCognition",
+        "reason": "ancient"
+      },
+      {
+        "name": "EnergySurge",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Hibernate",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Ignition",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "ImitationLearning",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "OneForAll",
+        "reason": "multiplayer"
+      },
+      {
+        "name": "Quadcast",
+        "reason": "ancient"
+      }
+    ]
+  }
+}

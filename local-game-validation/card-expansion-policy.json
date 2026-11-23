@@ -1,0 +1,10 @@
+{
+  "note": "User excludes cross-battle permanent progression and post-battle rewards. Names remain available for chat and reports.",
+  "excluded": {
+    "Feed": "永久增加角色生命上限",
+    "TheHunt": "战后增加卡牌奖励",
+    "Royalties": "战后获得金币奖励",
+    "TheScythe": "跨战斗永久增加本牌伤害",
+    "GeneticAlgorithm": "跨战斗永久增加本牌格挡"
+  }
+}

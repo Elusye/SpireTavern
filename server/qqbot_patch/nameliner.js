@@ -123,10 +123,9 @@ export function nonsenseReply(hintText = "") {
     return out;
 }
 
-/** 出站改写：群聊的 agent 回复整体替换；返回 null 表示不改 */
-export function rewriteOutbound(text, scope) {
-    if (scope !== "group") return null;
-    return nonsenseReply(String(text ?? ""));
+/** 返回 null，让出站中间件保留模型原文。 */
+export function rewriteOutbound() {
+    return null;
 }
 
 export function stats() {

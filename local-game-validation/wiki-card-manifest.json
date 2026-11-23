@@ -1,0 +1,4970 @@
+[
+  {
+    "card": "Abrasive",
+    "upgraded": false,
+    "title": "磨蚀",
+    "filename": "Abrasive.png"
+  },
+  {
+    "card": "Abrasive",
+    "upgraded": true,
+    "title": "磨蚀+",
+    "filename": "Abrasive_upgrade.png"
+  },
+  {
+    "card": "Accelerant",
+    "upgraded": false,
+    "title": "触媒",
+    "filename": "Accelerant.png"
+  },
+  {
+    "card": "Accelerant",
+    "upgraded": true,
+    "title": "触媒+",
+    "filename": "Accelerant_upgrade.png"
+  },
+  {
+    "card": "Accuracy",
+    "upgraded": false,
+    "title": "精准",
+    "filename": "Accuracy.png"
+  },
+  {
+    "card": "Accuracy",
+    "upgraded": true,
+    "title": "精准+",
+    "filename": "Accuracy_upgrade.png"
+  },
+  {
+    "card": "Acrobatics",
+    "upgraded": false,
+    "title": "杂技",
+    "filename": "Acrobatics.png"
+  },
+  {
+    "card": "Acrobatics",
+    "upgraded": true,
+    "title": "杂技+",
+    "filename": "Acrobatics_upgrade.png"
+  },
+  {
+    "card": "AdaptiveStrike",
+    "upgraded": false,
+    "title": "适应打击",
+    "filename": "Adaptive_strike.png"
+  },
+  {
+    "card": "AdaptiveStrike",
+    "upgraded": true,
+    "title": "适应打击+",
+    "filename": "Adaptive_strike_upgrade.png"
+  },
+  {
+    "card": "Adrenaline",
+    "upgraded": false,
+    "title": "肾上腺素",
+    "filename": "Adrenaline.png"
+  },
+  {
+    "card": "Adrenaline",
+    "upgraded": true,
+    "title": "肾上腺素+",
+    "filename": "Adrenaline_upgrade.png"
+  },
+  {
+    "card": "Afterimage",
+    "upgraded": false,
+    "title": "余像",
+    "filename": "Afterimage.png"
+  },
+  {
+    "card": "Afterimage",
+    "upgraded": true,
+    "title": "余像+",
+    "filename": "Afterimage_upgrade.png"
+  },
+  {
+    "card": "Afterlife",
+    "upgraded": false,
+    "title": "来生",
+    "filename": "Afterlife.png"
+  },
+  {
+    "card": "Afterlife",
+    "upgraded": true,
+    "title": "来生+",
+    "filename": "Afterlife_upgrade.png"
+  },
+  {
+    "card": "Aggression",
+    "upgraded": false,
+    "title": "好勇斗狠",
+    "filename": "Aggression.png"
+  },
+  {
+    "card": "Aggression",
+    "upgraded": true,
+    "title": "好勇斗狠+",
+    "filename": "Aggression_upgrade.png"
+  },
+  {
+    "card": "Alignment",
+    "upgraded": false,
+    "title": "星位序列",
+    "filename": "Alignment.png"
+  },
+  {
+    "card": "Alignment",
+    "upgraded": true,
+    "title": "星位序列+",
+    "filename": "Alignment_upgrade.png"
+  },
+  {
+    "card": "AllForOne",
+    "upgraded": false,
+    "title": "万物一心",
+    "filename": "All_for_one.png"
+  },
+  {
+    "card": "AllForOne",
+    "upgraded": true,
+    "title": "万物一心+",
+    "filename": "All_for_one_upgrade.png"
+  },
+  {
+    "card": "Anger",
+    "upgraded": false,
+    "title": "愤怒",
+    "filename": "Anger.png"
+  },
+  {
+    "card": "Anger",
+    "upgraded": true,
+    "title": "愤怒+",
+    "filename": "Anger_upgrade.png"
+  },
+  {
+    "card": "Anticipate",
+    "upgraded": false,
+    "title": "预判",
+    "filename": "Anticipate.png"
+  },
+  {
+    "card": "Anticipate",
+    "upgraded": true,
+    "title": "预判+",
+    "filename": "Anticipate_upgrade.png"
+  },
+  {
+    "card": "Armaments",
+    "upgraded": false,
+    "title": "武装",
+    "filename": "Armaments.png"
+  },
+  {
+    "card": "Armaments",
+    "upgraded": true,
+    "title": "武装+",
+    "filename": "Armaments_upgrade.png"
+  },
+  {
+    "card": "Arsenal",
+    "upgraded": false,
+    "title": "武器库",
+    "filename": "Arsenal.png"
+  },
+  {
+    "card": "Arsenal",
+    "upgraded": true,
+    "title": "武器库+",
+    "filename": "Arsenal_upgrade.png"
+  },
+  {
+    "card": "AshenStrike",
+    "upgraded": false,
+    "title": "灰烬打击",
+    "filename": "Ashen_strike.png"
+  },
+  {
+    "card": "AshenStrike",
+    "upgraded": true,
+    "title": "灰烬打击+",
+    "filename": "Ashen_strike_upgrade.png"
+  },
+  {
+    "card": "Assassinate",
+    "upgraded": false,
+    "title": "刺杀",
+    "filename": "Assassinate.png"
+  },
+  {
+    "card": "Assassinate",
+    "upgraded": true,
+    "title": "刺杀+",
+    "filename": "Assassinate_upgrade.png"
+  },
+  {
+    "card": "AstralPulse",
+    "upgraded": false,
+    "title": "星界脉冲",
+    "filename": "Astral_pulse.png"
+  },
+  {
+    "card": "AstralPulse",
+    "upgraded": true,
+    "title": "星界脉冲+",
+    "filename": "Astral_pulse_upgrade.png"
+  },
+  {
+    "card": "Backflip",
+    "upgraded": false,
+    "title": "后空翻",
+    "filename": "Backflip.png"
+  },
+  {
+    "card": "Backflip",
+    "upgraded": true,
+    "title": "后空翻+",
+    "filename": "Backflip_upgrade.png"
+  },
+  {
+    "card": "Backstab",
+    "upgraded": false,
+    "title": "背刺",
+    "filename": "Backstab.png"
+  },
+  {
+    "card": "Backstab",
+    "upgraded": true,
+    "title": "背刺+",
+    "filename": "Backstab_upgrade.png"
+  },
+  {
+    "card": "BallLightning",
+    "upgraded": false,
+    "title": "球状闪电",
+    "filename": "Ball_lightning.png"
+  },
+  {
+    "card": "BallLightning",
+    "upgraded": true,
+    "title": "球状闪电+",
+    "filename": "Ball_lightning_upgrade.png"
+  },
+  {
+    "card": "BansheesCry",
+    "upgraded": false,
+    "title": "女妖之嚎",
+    "filename": "Banshees_cry.png"
+  },
+  {
+    "card": "BansheesCry",
+    "upgraded": true,
+    "title": "女妖之嚎+",
+    "filename": "Banshees_cry_upgrade.png"
+  },
+  {
+    "card": "Barrage",
+    "upgraded": false,
+    "title": "弹幕齐射",
+    "filename": "Barrage.png"
+  },
+  {
+    "card": "Barrage",
+    "upgraded": true,
+    "title": "弹幕齐射+",
+    "filename": "Barrage_upgrade.png"
+  },
+  {
+    "card": "Barricade",
+    "upgraded": false,
+    "title": "壁垒",
+    "filename": "Barricade.png"
+  },
+  {
+    "card": "Barricade",
+    "upgraded": true,
+    "title": "壁垒+",
+    "filename": "Barricade_upgrade.png"
+  },
+  {
+    "card": "Bash",
+    "upgraded": false,
+    "title": "痛击",
+    "filename": "Bash.png"
+  },
+  {
+    "card": "Bash",
+    "upgraded": true,
+    "title": "痛击+",
+    "filename": "Bash_upgrade.png"
+  },
+  {
+    "card": "BattleTrance",
+    "upgraded": false,
+    "title": "战斗专注",
+    "filename": "Battle_trance.png"
+  },
+  {
+    "card": "BattleTrance",
+    "upgraded": true,
+    "title": "战斗专注+",
+    "filename": "Battle_trance_upgrade.png"
+  },
+  {
+    "card": "BeamCell",
+    "upgraded": false,
+    "title": "光束射线",
+    "filename": "Beam_cell.png"
+  },
+  {
+    "card": "BeamCell",
+    "upgraded": true,
+    "title": "光束射线+",
+    "filename": "Beam_cell_upgrade.png"
+  },
+  {
+    "card": "BeatIntoShape",
+    "upgraded": false,
+    "title": "锻打成型",
+    "filename": "Beat_into_shape.png"
+  },
+  {
+    "card": "BeatIntoShape",
+    "upgraded": true,
+    "title": "锻打成型+",
+    "filename": "Beat_into_shape_upgrade.png"
+  },
+  {
+    "card": "Begone",
+    "upgraded": false,
+    "title": "下去！",
+    "filename": "Begone.png"
+  },
+  {
+    "card": "Begone",
+    "upgraded": true,
+    "title": "下去！+",
+    "filename": "Begone_upgrade.png"
+  },
+  {
+    "card": "BigBang",
+    "upgraded": false,
+    "title": "大爆炸",
+    "filename": "Big_bang.png"
+  },
+  {
+    "card": "BigBang",
+    "upgraded": true,
+    "title": "大爆炸+",
+    "filename": "Big_bang_upgrade.png"
+  },
+  {
+    "card": "BlackHole",
+    "upgraded": false,
+    "title": "黑洞",
+    "filename": "Black_hole.png"
+  },
+  {
+    "card": "BlackHole",
+    "upgraded": true,
+    "title": "黑洞+",
+    "filename": "Black_hole_upgrade.png"
+  },
+  {
+    "card": "BladeDance",
+    "upgraded": false,
+    "title": "刀刃之舞",
+    "filename": "Blade_dance.png"
+  },
+  {
+    "card": "BladeDance",
+    "upgraded": true,
+    "title": "刀刃之舞+",
+    "filename": "Blade_dance_upgrade.png"
+  },
+  {
+    "card": "BladeOfInk",
+    "upgraded": false,
+    "title": "墨之刃",
+    "filename": "Blade_of_ink.png"
+  },
+  {
+    "card": "BladeOfInk",
+    "upgraded": true,
+    "title": "墨之刃+",
+    "filename": "Blade_of_ink_upgrade.png"
+  },
+  {
+    "card": "BlightStrike",
+    "upgraded": false,
+    "title": "荒疫打击",
+    "filename": "Blight_strike.png"
+  },
+  {
+    "card": "BlightStrike",
+    "upgraded": true,
+    "title": "荒疫打击+",
+    "filename": "Blight_strike_upgrade.png"
+  },
+  {
+    "card": "BloodWall",
+    "upgraded": false,
+    "title": "血墙",
+    "filename": "Blood_wall.png"
+  },
+  {
+    "card": "BloodWall",
+    "upgraded": true,
+    "title": "血墙+",
+    "filename": "Blood_wall_upgrade.png"
+  },
+  {
+    "card": "Bloodletting",
+    "upgraded": false,
+    "title": "放血",
+    "filename": "Bloodletting.png"
+  },
+  {
+    "card": "Bloodletting",
+    "upgraded": true,
+    "title": "放血+",
+    "filename": "Bloodletting_upgrade.png"
+  },
+  {
+    "card": "Bludgeon",
+    "upgraded": false,
+    "title": "重锤",
+    "filename": "Bludgeon.png"
+  },
+  {
+    "card": "Bludgeon",
+    "upgraded": true,
+    "title": "重锤+",
+    "filename": "Bludgeon_upgrade.png"
+  },
+  {
+    "card": "Blur",
+    "upgraded": false,
+    "title": "残影",
+    "filename": "Blur.png"
+  },
+  {
+    "card": "Blur",
+    "upgraded": true,
+    "title": "残影+",
+    "filename": "Blur_upgrade.png"
+  },
+  {
+    "card": "BodySlam",
+    "upgraded": false,
+    "title": "全身撞击",
+    "filename": "Body_slam.png"
+  },
+  {
+    "card": "BodySlam",
+    "upgraded": true,
+    "title": "全身撞击+",
+    "filename": "Body_slam_upgrade.png"
+  },
+  {
+    "card": "Bodyguard",
+    "upgraded": false,
+    "title": "护卫",
+    "filename": "Bodyguard.png"
+  },
+  {
+    "card": "Bodyguard",
+    "upgraded": true,
+    "title": "护卫+",
+    "filename": "Bodyguard_upgrade.png"
+  },
+  {
+    "card": "Bombardment",
+    "upgraded": false,
+    "title": "轰击",
+    "filename": "Bombardment.png"
+  },
+  {
+    "card": "Bombardment",
+    "upgraded": true,
+    "title": "轰击+",
+    "filename": "Bombardment_upgrade.png"
+  },
+  {
+    "card": "BoneShards",
+    "upgraded": false,
+    "title": "碎骨",
+    "filename": "Bone_shards.png"
+  },
+  {
+    "card": "BoneShards",
+    "upgraded": true,
+    "title": "碎骨+",
+    "filename": "Bone_shards_upgrade.png"
+  },
+  {
+    "card": "BoostAway",
+    "upgraded": false,
+    "title": "高速脱离",
+    "filename": "Boost_away.png"
+  },
+  {
+    "card": "BoostAway",
+    "upgraded": true,
+    "title": "高速脱离+",
+    "filename": "Boost_away_upgrade.png"
+  },
+  {
+    "card": "BootSequence",
+    "upgraded": false,
+    "title": "启动流程",
+    "filename": "Boot_sequence.png"
+  },
+  {
+    "card": "BootSequence",
+    "upgraded": true,
+    "title": "启动流程+",
+    "filename": "Boot_sequence_upgrade.png"
+  },
+  {
+    "card": "BorrowedTime",
+    "upgraded": false,
+    "title": "预借时间",
+    "filename": "Borrowed_time.png"
+  },
+  {
+    "card": "BorrowedTime",
+    "upgraded": true,
+    "title": "预借时间+",
+    "filename": "Borrowed_time_upgrade.png"
+  },
+  {
+    "card": "BouncingFlask",
+    "upgraded": false,
+    "title": "弹跳药瓶",
+    "filename": "Bouncing_flask.png"
+  },
+  {
+    "card": "BouncingFlask",
+    "upgraded": true,
+    "title": "弹跳药瓶+",
+    "filename": "Bouncing_flask_upgrade.png"
+  },
+  {
+    "card": "Brand",
+    "upgraded": false,
+    "title": "烙印",
+    "filename": "Brand.png"
+  },
+  {
+    "card": "Brand",
+    "upgraded": true,
+    "title": "烙印+",
+    "filename": "Brand_upgrade.png"
+  },
+  {
+    "card": "Breakthrough",
+    "upgraded": false,
+    "title": "突破",
+    "filename": "Breakthrough.png"
+  },
+  {
+    "card": "Breakthrough",
+    "upgraded": true,
+    "title": "突破+",
+    "filename": "Breakthrough_upgrade.png"
+  },
+  {
+    "card": "BubbleBubble",
+    "upgraded": false,
+    "title": "咕嘟冒泡",
+    "filename": "Bubble_bubble.png"
+  },
+  {
+    "card": "BubbleBubble",
+    "upgraded": true,
+    "title": "咕嘟冒泡+",
+    "filename": "Bubble_bubble_upgrade.png"
+  },
+  {
+    "card": "Buffer",
+    "upgraded": false,
+    "title": "缓冲",
+    "filename": "Buffer.png"
+  },
+  {
+    "card": "Buffer",
+    "upgraded": true,
+    "title": "缓冲+",
+    "filename": "Buffer_upgrade.png"
+  },
+  {
+    "card": "BulkUp",
+    "upgraded": false,
+    "title": "暴涨",
+    "filename": "Bulk_up.png"
+  },
+  {
+    "card": "BulkUp",
+    "upgraded": true,
+    "title": "暴涨+",
+    "filename": "Bulk_up_upgrade.png"
+  },
+  {
+    "card": "BulletTime",
+    "upgraded": false,
+    "title": "子弹时间",
+    "filename": "Bullet_time.png"
+  },
+  {
+    "card": "BulletTime",
+    "upgraded": true,
+    "title": "子弹时间+",
+    "filename": "Bullet_time_upgrade.png"
+  },
+  {
+    "card": "Bully",
+    "upgraded": false,
+    "title": "欺凌",
+    "filename": "Bully.png"
+  },
+  {
+    "card": "Bully",
+    "upgraded": true,
+    "title": "欺凌+",
+    "filename": "Bully_upgrade.png"
+  },
+  {
+    "card": "Bulwark",
+    "upgraded": false,
+    "title": "铸墙",
+    "filename": "Bulwark.png"
+  },
+  {
+    "card": "Bulwark",
+    "upgraded": true,
+    "title": "铸墙+",
+    "filename": "Bulwark_upgrade.png"
+  },
+  {
+    "card": "BundleOfJoy",
+    "upgraded": false,
+    "title": "新生之喜",
+    "filename": "Bundle_of_joy.png"
+  },
+  {
+    "card": "BundleOfJoy",
+    "upgraded": true,
+    "title": "新生之喜+",
+    "filename": "Bundle_of_joy_upgrade.png"
+  },
+  {
+    "card": "BurningPact",
+    "upgraded": false,
+    "title": "燃烧契约",
+    "filename": "Burning_pact.png"
+  },
+  {
+    "card": "BurningPact",
+    "upgraded": true,
+    "title": "燃烧契约+",
+    "filename": "Burning_pact_upgrade.png"
+  },
+  {
+    "card": "Burst",
+    "upgraded": false,
+    "title": "爆发",
+    "filename": "Burst.png"
+  },
+  {
+    "card": "Burst",
+    "upgraded": true,
+    "title": "爆发+",
+    "filename": "Burst_upgrade.png"
+  },
+  {
+    "card": "Bury",
+    "upgraded": false,
+    "title": "埋葬",
+    "filename": "Bury.png"
+  },
+  {
+    "card": "Bury",
+    "upgraded": true,
+    "title": "埋葬+",
+    "filename": "Bury_upgrade.png"
+  },
+  {
+    "card": "Calcify",
+    "upgraded": false,
+    "title": "钙化",
+    "filename": "Calcify.png"
+  },
+  {
+    "card": "Calcify",
+    "upgraded": true,
+    "title": "钙化+",
+    "filename": "Calcify_upgrade.png"
+  },
+  {
+    "card": "CalculatedGamble",
+    "upgraded": false,
+    "title": "计算下注",
+    "filename": "Calculated_gamble.png"
+  },
+  {
+    "card": "CalculatedGamble",
+    "upgraded": true,
+    "title": "计算下注+",
+    "filename": "Calculated_gamble_upgrade.png"
+  },
+  {
+    "card": "CallOfTheVoid",
+    "upgraded": false,
+    "title": "虚空之唤",
+    "filename": "Call_of_the_void.png"
+  },
+  {
+    "card": "CallOfTheVoid",
+    "upgraded": true,
+    "title": "虚空之唤+",
+    "filename": "Call_of_the_void_upgrade.png"
+  },
+  {
+    "card": "Capacitor",
+    "upgraded": false,
+    "title": "扩容",
+    "filename": "Capacitor.png"
+  },
+  {
+    "card": "Capacitor",
+    "upgraded": true,
+    "title": "扩容+",
+    "filename": "Capacitor_upgrade.png"
+  },
+  {
+    "card": "CaptureSpirit",
+    "upgraded": false,
+    "title": "捕捉灵魂",
+    "filename": "Capture_spirit.png"
+  },
+  {
+    "card": "CaptureSpirit",
+    "upgraded": true,
+    "title": "捕捉灵魂+",
+    "filename": "Capture_spirit_upgrade.png"
+  },
+  {
+    "card": "Cascade",
+    "upgraded": false,
+    "title": "倾泻",
+    "filename": "Cascade.png"
+  },
+  {
+    "card": "Cascade",
+    "upgraded": true,
+    "title": "倾泻+",
+    "filename": "Cascade_upgrade.png"
+  },
+  {
+    "card": "CelestialMight",
+    "upgraded": false,
+    "title": "天穹之力",
+    "filename": "Celestial_might.png"
+  },
+  {
+    "card": "CelestialMight",
+    "upgraded": true,
+    "title": "天穹之力+",
+    "filename": "Celestial_might_upgrade.png"
+  },
+  {
+    "card": "Chaos",
+    "upgraded": false,
+    "title": "混沌",
+    "filename": "Chaos.png"
+  },
+  {
+    "card": "Chaos",
+    "upgraded": true,
+    "title": "混沌+",
+    "filename": "Chaos_upgrade.png"
+  },
+  {
+    "card": "Charge",
+    "upgraded": false,
+    "title": "冲锋！！",
+    "filename": "Charge.png"
+  },
+  {
+    "card": "Charge",
+    "upgraded": true,
+    "title": "冲锋！！+",
+    "filename": "Charge_upgrade.png"
+  },
+  {
+    "card": "ChargeBattery",
+    "upgraded": false,
+    "title": "充电",
+    "filename": "Charge_battery.png"
+  },
+  {
+    "card": "ChargeBattery",
+    "upgraded": true,
+    "title": "充电+",
+    "filename": "Charge_battery_upgrade.png"
+  },
+  {
+    "card": "ChildOfTheStars",
+    "upgraded": false,
+    "title": "群星之子",
+    "filename": "Child_of_the_stars.png"
+  },
+  {
+    "card": "ChildOfTheStars",
+    "upgraded": true,
+    "title": "群星之子+",
+    "filename": "Child_of_the_stars_upgrade.png"
+  },
+  {
+    "card": "Chill",
+    "upgraded": false,
+    "title": "冰寒",
+    "filename": "Chill.png"
+  },
+  {
+    "card": "Chill",
+    "upgraded": true,
+    "title": "冰寒+",
+    "filename": "Chill_upgrade.png"
+  },
+  {
+    "card": "Cinder",
+    "upgraded": false,
+    "title": "余烬",
+    "filename": "Cinder.png"
+  },
+  {
+    "card": "Cinder",
+    "upgraded": true,
+    "title": "余烬+",
+    "filename": "Cinder_upgrade.png"
+  },
+  {
+    "card": "Claw",
+    "upgraded": false,
+    "title": "爪击",
+    "filename": "Claw.png"
+  },
+  {
+    "card": "Claw",
+    "upgraded": true,
+    "title": "爪击+",
+    "filename": "Claw_upgrade.png"
+  },
+  {
+    "card": "Cleanse",
+    "upgraded": false,
+    "title": "洁净",
+    "filename": "Cleanse.png"
+  },
+  {
+    "card": "Cleanse",
+    "upgraded": true,
+    "title": "洁净+",
+    "filename": "Cleanse_upgrade.png"
+  },
+  {
+    "card": "CloakAndDagger",
+    "upgraded": false,
+    "title": "斗篷与匕首",
+    "filename": "Cloak_and_dagger.png"
+  },
+  {
+    "card": "CloakAndDagger",
+    "upgraded": true,
+    "title": "斗篷与匕首+",
+    "filename": "Cloak_and_dagger_upgrade.png"
+  },
+  {
+    "card": "CloakOfStars",
+    "upgraded": false,
+    "title": "群星斗篷",
+    "filename": "Cloak_of_stars.png"
+  },
+  {
+    "card": "CloakOfStars",
+    "upgraded": true,
+    "title": "群星斗篷+",
+    "filename": "Cloak_of_stars_upgrade.png"
+  },
+  {
+    "card": "ColdSnap",
+    "upgraded": false,
+    "title": "寒流",
+    "filename": "Cold_snap.png"
+  },
+  {
+    "card": "ColdSnap",
+    "upgraded": true,
+    "title": "寒流+",
+    "filename": "Cold_snap_upgrade.png"
+  },
+  {
+    "card": "CollisionCourse",
+    "upgraded": false,
+    "title": "碰撞轨迹",
+    "filename": "Collision_course.png"
+  },
+  {
+    "card": "CollisionCourse",
+    "upgraded": true,
+    "title": "碰撞轨迹+",
+    "filename": "Collision_course_upgrade.png"
+  },
+  {
+    "card": "Colossus",
+    "upgraded": false,
+    "title": "巨像",
+    "filename": "Colossus.png"
+  },
+  {
+    "card": "Colossus",
+    "upgraded": true,
+    "title": "巨像+",
+    "filename": "Colossus_upgrade.png"
+  },
+  {
+    "card": "Comet",
+    "upgraded": false,
+    "title": "彗星",
+    "filename": "Comet.png"
+  },
+  {
+    "card": "Comet",
+    "upgraded": true,
+    "title": "彗星+",
+    "filename": "Comet_upgrade.png"
+  },
+  {
+    "card": "Compact",
+    "upgraded": false,
+    "title": "压缩",
+    "filename": "Compact.png"
+  },
+  {
+    "card": "Compact",
+    "upgraded": true,
+    "title": "压缩+",
+    "filename": "Compact_upgrade.png"
+  },
+  {
+    "card": "CompileDriver",
+    "upgraded": false,
+    "title": "编译冲击",
+    "filename": "Compile_driver.png"
+  },
+  {
+    "card": "CompileDriver",
+    "upgraded": true,
+    "title": "编译冲击+",
+    "filename": "Compile_driver_upgrade.png"
+  },
+  {
+    "card": "Conflagration",
+    "upgraded": false,
+    "title": "焚烧",
+    "filename": "Conflagration.png"
+  },
+  {
+    "card": "Conflagration",
+    "upgraded": true,
+    "title": "焚烧+",
+    "filename": "Conflagration_upgrade.png"
+  },
+  {
+    "card": "Conqueror",
+    "upgraded": false,
+    "title": "征服者",
+    "filename": "Conqueror.png"
+  },
+  {
+    "card": "Conqueror",
+    "upgraded": true,
+    "title": "征服者+",
+    "filename": "Conqueror_upgrade.png"
+  },
+  {
+    "card": "ConsumingShadow",
+    "upgraded": false,
+    "title": "吞噬暗影",
+    "filename": "Consuming_shadow.png"
+  },
+  {
+    "card": "ConsumingShadow",
+    "upgraded": true,
+    "title": "吞噬暗影+",
+    "filename": "Consuming_shadow_upgrade.png"
+  },
+  {
+    "card": "Convergence",
+    "upgraded": false,
+    "title": "汇流",
+    "filename": "Convergence.png"
+  },
+  {
+    "card": "Convergence",
+    "upgraded": true,
+    "title": "汇流+",
+    "filename": "Convergence_upgrade.png"
+  },
+  {
+    "card": "Coolant",
+    "upgraded": false,
+    "title": "冷却剂",
+    "filename": "Coolant.png"
+  },
+  {
+    "card": "Coolant",
+    "upgraded": true,
+    "title": "冷却剂+",
+    "filename": "Coolant_upgrade.png"
+  },
+  {
+    "card": "Coolheaded",
+    "upgraded": false,
+    "title": "冷静头脑",
+    "filename": "Coolheaded.png"
+  },
+  {
+    "card": "Coolheaded",
+    "upgraded": true,
+    "title": "冷静头脑+",
+    "filename": "Coolheaded_upgrade.png"
+  },
+  {
+    "card": "CorrosiveWave",
+    "upgraded": false,
+    "title": "腐蚀波",
+    "filename": "Corrosive_wave.png"
+  },
+  {
+    "card": "CorrosiveWave",
+    "upgraded": true,
+    "title": "腐蚀波+",
+    "filename": "Corrosive_wave_upgrade.png"
+  },
+  {
+    "card": "CosmicIndifference",
+    "upgraded": false,
+    "title": "宇宙冷漠",
+    "filename": "Cosmic_indifference.png"
+  },
+  {
+    "card": "CosmicIndifference",
+    "upgraded": true,
+    "title": "宇宙冷漠+",
+    "filename": "Cosmic_indifference_upgrade.png"
+  },
+  {
+    "card": "Countdown",
+    "upgraded": false,
+    "title": "倒数计时",
+    "filename": "Countdown.png"
+  },
+  {
+    "card": "Countdown",
+    "upgraded": true,
+    "title": "倒数计时+",
+    "filename": "Countdown_upgrade.png"
+  },
+  {
+    "card": "CrashLanding",
+    "upgraded": false,
+    "title": "迫降",
+    "filename": "Crash_landing.png"
+  },
+  {
+    "card": "CrashLanding",
+    "upgraded": true,
+    "title": "迫降+",
+    "filename": "Crash_landing_upgrade.png"
+  },
+  {
+    "card": "CreativeAi",
+    "upgraded": false,
+    "title": "创造性AI",
+    "filename": "Creative_ai.png"
+  },
+  {
+    "card": "CreativeAi",
+    "upgraded": true,
+    "title": "创造性AI+",
+    "filename": "Creative_ai_upgrade.png"
+  },
+  {
+    "card": "CrescentSpear",
+    "upgraded": false,
+    "title": "新月长矛",
+    "filename": "Crescent_spear.png"
+  },
+  {
+    "card": "CrescentSpear",
+    "upgraded": true,
+    "title": "新月长矛+",
+    "filename": "Crescent_spear_upgrade.png"
+  },
+  {
+    "card": "CrimsonMantle",
+    "upgraded": false,
+    "title": "绯红披风",
+    "filename": "Crimson_mantle.png"
+  },
+  {
+    "card": "CrimsonMantle",
+    "upgraded": true,
+    "title": "绯红披风+",
+    "filename": "Crimson_mantle_upgrade.png"
+  },
+  {
+    "card": "Cruelty",
+    "upgraded": false,
+    "title": "残酷",
+    "filename": "Cruelty.png"
+  },
+  {
+    "card": "Cruelty",
+    "upgraded": true,
+    "title": "残酷+",
+    "filename": "Cruelty_upgrade.png"
+  },
+  {
+    "card": "CrushUnder",
+    "upgraded": false,
+    "title": "下砸",
+    "filename": "Crush_under.png"
+  },
+  {
+    "card": "CrushUnder",
+    "upgraded": true,
+    "title": "下砸+",
+    "filename": "Crush_under_upgrade.png"
+  },
+  {
+    "card": "DaggerSpray",
+    "upgraded": false,
+    "title": "匕首雨",
+    "filename": "Dagger_spray.png"
+  },
+  {
+    "card": "DaggerSpray",
+    "upgraded": true,
+    "title": "匕首雨+",
+    "filename": "Dagger_spray_upgrade.png"
+  },
+  {
+    "card": "DaggerThrow",
+    "upgraded": false,
+    "title": "投掷匕首",
+    "filename": "Dagger_throw.png"
+  },
+  {
+    "card": "DaggerThrow",
+    "upgraded": true,
+    "title": "投掷匕首+",
+    "filename": "Dagger_throw_upgrade.png"
+  },
+  {
+    "card": "DanseMacabre",
+    "upgraded": false,
+    "title": "死亡之舞",
+    "filename": "Danse_macabre.png"
+  },
+  {
+    "card": "DanseMacabre",
+    "upgraded": true,
+    "title": "死亡之舞+",
+    "filename": "Danse_macabre_upgrade.png"
+  },
+  {
+    "card": "DarkEmbrace",
+    "upgraded": false,
+    "title": "黑暗之拥",
+    "filename": "Dark_embrace.png"
+  },
+  {
+    "card": "DarkEmbrace",
+    "upgraded": true,
+    "title": "黑暗之拥+",
+    "filename": "Dark_embrace_upgrade.png"
+  },
+  {
+    "card": "Darkness",
+    "upgraded": false,
+    "title": "漆黑",
+    "filename": "Darkness.png"
+  },
+  {
+    "card": "Darkness",
+    "upgraded": true,
+    "title": "漆黑+",
+    "filename": "Darkness_upgrade.png"
+  },
+  {
+    "card": "Dash",
+    "upgraded": false,
+    "title": "冲刺",
+    "filename": "Dash.png"
+  },
+  {
+    "card": "Dash",
+    "upgraded": true,
+    "title": "冲刺+",
+    "filename": "Dash_upgrade.png"
+  },
+  {
+    "card": "DeadlyPoison",
+    "upgraded": false,
+    "title": "致命毒药",
+    "filename": "Deadly_poison.png"
+  },
+  {
+    "card": "DeadlyPoison",
+    "upgraded": true,
+    "title": "致命毒药+",
+    "filename": "Deadly_poison_upgrade.png"
+  },
+  {
+    "card": "DeathMarch",
+    "upgraded": false,
+    "title": "死亡行军",
+    "filename": "Death_march.png"
+  },
+  {
+    "card": "DeathMarch",
+    "upgraded": true,
+    "title": "死亡行军+",
+    "filename": "Death_march_upgrade.png"
+  },
+  {
+    "card": "Deathbringer",
+    "upgraded": false,
+    "title": "死亡使者",
+    "filename": "Deathbringer.png"
+  },
+  {
+    "card": "Deathbringer",
+    "upgraded": true,
+    "title": "死亡使者+",
+    "filename": "Deathbringer_upgrade.png"
+  },
+  {
+    "card": "DeathsDoor",
+    "upgraded": false,
+    "title": "死亡之门",
+    "filename": "Deaths_door.png"
+  },
+  {
+    "card": "DeathsDoor",
+    "upgraded": true,
+    "title": "死亡之门+",
+    "filename": "Deaths_door_upgrade.png"
+  },
+  {
+    "card": "Debilitate",
+    "upgraded": false,
+    "title": "摧残",
+    "filename": "Debilitate.png"
+  },
+  {
+    "card": "Debilitate",
+    "upgraded": true,
+    "title": "摧残+",
+    "filename": "Debilitate_upgrade.png"
+  },
+  {
+    "card": "DecisionsDecisions",
+    "upgraded": false,
+    "title": "抉择，抉择",
+    "filename": "Decisions_decisions.png"
+  },
+  {
+    "card": "DecisionsDecisions",
+    "upgraded": true,
+    "title": "抉择，抉择+",
+    "filename": "Decisions_decisions_upgrade.png"
+  },
+  {
+    "card": "DefendDefect",
+    "upgraded": false,
+    "title": "防御",
+    "filename": "Defend_defect.png"
+  },
+  {
+    "card": "DefendDefect",
+    "upgraded": true,
+    "title": "防御+",
+    "filename": "Defend_defect_upgrade.png"
+  },
+  {
+    "card": "DefendIronclad",
+    "upgraded": false,
+    "title": "防御",
+    "filename": "Defend_ironclad.png"
+  },
+  {
+    "card": "DefendIronclad",
+    "upgraded": true,
+    "title": "防御+",
+    "filename": "Defend_ironclad_upgrade.png"
+  },
+  {
+    "card": "DefendNecrobinder",
+    "upgraded": false,
+    "title": "防御",
+    "filename": "Defend_necrobinder.png"
+  },
+  {
+    "card": "DefendNecrobinder",
+    "upgraded": true,
+    "title": "防御+",
+    "filename": "Defend_necrobinder_upgrade.png"
+  },
+  {
+    "card": "DefendRegent",
+    "upgraded": false,
+    "title": "防御",
+    "filename": "Defend_regent.png"
+  },
+  {
+    "card": "DefendRegent",
+    "upgraded": true,
+    "title": "防御+",
+    "filename": "Defend_regent_upgrade.png"
+  },
+  {
+    "card": "DefendSilent",
+    "upgraded": false,
+    "title": "防御",
+    "filename": "Defend_silent.png"
+  },
+  {
+    "card": "DefendSilent",
+    "upgraded": true,
+    "title": "防御+",
+    "filename": "Defend_silent_upgrade.png"
+  },
+  {
+    "card": "Defile",
+    "upgraded": false,
+    "title": "玷污",
+    "filename": "Defile.png"
+  },
+  {
+    "card": "Defile",
+    "upgraded": true,
+    "title": "玷污+",
+    "filename": "Defile_upgrade.png"
+  },
+  {
+    "card": "Deflect",
+    "upgraded": false,
+    "title": "偏折",
+    "filename": "Deflect.png"
+  },
+  {
+    "card": "Deflect",
+    "upgraded": true,
+    "title": "偏折+",
+    "filename": "Deflect_upgrade.png"
+  },
+  {
+    "card": "Defragment",
+    "upgraded": false,
+    "title": "碎片整理",
+    "filename": "Defragment.png"
+  },
+  {
+    "card": "Defragment",
+    "upgraded": true,
+    "title": "碎片整理+",
+    "filename": "Defragment_upgrade.png"
+  },
+  {
+    "card": "Defy",
+    "upgraded": false,
+    "title": "违逆",
+    "filename": "Defy.png"
+  },
+  {
+    "card": "Defy",
+    "upgraded": true,
+    "title": "违逆+",
+    "filename": "Defy_upgrade.png"
+  },
+  {
+    "card": "Delay",
+    "upgraded": false,
+    "title": "拖延",
+    "filename": "Delay.png"
+  },
+  {
+    "card": "Delay",
+    "upgraded": true,
+    "title": "拖延+",
+    "filename": "Delay_upgrade.png"
+  },
+  {
+    "card": "Demesne",
+    "upgraded": false,
+    "title": "领域",
+    "filename": "Demesne.png"
+  },
+  {
+    "card": "Demesne",
+    "upgraded": true,
+    "title": "领域+",
+    "filename": "Demesne_upgrade.png"
+  },
+  {
+    "card": "DemonForm",
+    "upgraded": false,
+    "title": "恶魔形态",
+    "filename": "Demon_form.png"
+  },
+  {
+    "card": "DemonForm",
+    "upgraded": true,
+    "title": "恶魔形态+",
+    "filename": "Demon_form_upgrade.png"
+  },
+  {
+    "card": "Devastate",
+    "upgraded": false,
+    "title": "葬送",
+    "filename": "Devastate.png"
+  },
+  {
+    "card": "Devastate",
+    "upgraded": true,
+    "title": "葬送+",
+    "filename": "Devastate_upgrade.png"
+  },
+  {
+    "card": "DevourLife",
+    "upgraded": false,
+    "title": "吞噬生命",
+    "filename": "Devour_life.png"
+  },
+  {
+    "card": "DevourLife",
+    "upgraded": true,
+    "title": "吞噬生命+",
+    "filename": "Devour_life_upgrade.png"
+  },
+  {
+    "card": "Dirge",
+    "upgraded": false,
+    "title": "挽歌",
+    "filename": "Dirge.png"
+  },
+  {
+    "card": "Dirge",
+    "upgraded": true,
+    "title": "挽歌+",
+    "filename": "Dirge_upgrade.png"
+  },
+  {
+    "card": "Dismantle",
+    "upgraded": false,
+    "title": "拆卸",
+    "filename": "Dismantle.png"
+  },
+  {
+    "card": "Dismantle",
+    "upgraded": true,
+    "title": "拆卸+",
+    "filename": "Dismantle_upgrade.png"
+  },
+  {
+    "card": "DodgeAndRoll",
+    "upgraded": false,
+    "title": "闪躲翻滚",
+    "filename": "Dodge_and_roll.png"
+  },
+  {
+    "card": "DodgeAndRoll",
+    "upgraded": true,
+    "title": "闪躲翻滚+",
+    "filename": "Dodge_and_roll_upgrade.png"
+  },
+  {
+    "card": "Dominate",
+    "upgraded": false,
+    "title": "主宰",
+    "filename": "Dominate.png"
+  },
+  {
+    "card": "Dominate",
+    "upgraded": true,
+    "title": "主宰+",
+    "filename": "Dominate_upgrade.png"
+  },
+  {
+    "card": "DoubleEnergy",
+    "upgraded": false,
+    "title": "双倍能量",
+    "filename": "Double_energy.png"
+  },
+  {
+    "card": "DoubleEnergy",
+    "upgraded": true,
+    "title": "双倍能量+",
+    "filename": "Double_energy_upgrade.png"
+  },
+  {
+    "card": "DrainPower",
+    "upgraded": false,
+    "title": "能量汲取",
+    "filename": "Drain_power.png"
+  },
+  {
+    "card": "DrainPower",
+    "upgraded": true,
+    "title": "能量汲取+",
+    "filename": "Drain_power_upgrade.png"
+  },
+  {
+    "card": "Dredge",
+    "upgraded": false,
+    "title": "清淤",
+    "filename": "Dredge.png"
+  },
+  {
+    "card": "Dredge",
+    "upgraded": true,
+    "title": "清淤+",
+    "filename": "Dredge_upgrade.png"
+  },
+  {
+    "card": "DrumOfBattle",
+    "upgraded": false,
+    "title": "战鼓",
+    "filename": "Drum_of_battle.png"
+  },
+  {
+    "card": "DrumOfBattle",
+    "upgraded": true,
+    "title": "战鼓+",
+    "filename": "Drum_of_battle_upgrade.png"
+  },
+  {
+    "card": "Dualcast",
+    "upgraded": false,
+    "title": "双重释放",
+    "filename": "Dualcast.png"
+  },
+  {
+    "card": "Dualcast",
+    "upgraded": true,
+    "title": "双重释放+",
+    "filename": "Dualcast_upgrade.png"
+  },
+  {
+    "card": "DyingStar",
+    "upgraded": false,
+    "title": "星灭",
+    "filename": "Dying_star.png"
+  },
+  {
+    "card": "DyingStar",
+    "upgraded": true,
+    "title": "星灭+",
+    "filename": "Dying_star_upgrade.png"
+  },
+  {
+    "card": "EchoForm",
+    "upgraded": false,
+    "title": "回响形态",
+    "filename": "Echo_form.png"
+  },
+  {
+    "card": "EchoForm",
+    "upgraded": true,
+    "title": "回响形态+",
+    "filename": "Echo_form_upgrade.png"
+  },
+  {
+    "card": "EchoingSlash",
+    "upgraded": false,
+    "title": "回响斩击",
+    "filename": "Echoing_slash.png"
+  },
+  {
+    "card": "EchoingSlash",
+    "upgraded": true,
+    "title": "回响斩击+",
+    "filename": "Echoing_slash_upgrade.png"
+  },
+  {
+    "card": "Eidolon",
+    "upgraded": false,
+    "title": "幻景",
+    "filename": "Eidolon.png"
+  },
+  {
+    "card": "Eidolon",
+    "upgraded": true,
+    "title": "幻景+",
+    "filename": "Eidolon_upgrade.png"
+  },
+  {
+    "card": "EndOfDays",
+    "upgraded": false,
+    "title": "末日降临",
+    "filename": "End_of_days.png"
+  },
+  {
+    "card": "EndOfDays",
+    "upgraded": true,
+    "title": "末日降临+",
+    "filename": "End_of_days_upgrade.png"
+  },
+  {
+    "card": "EnfeeblingTouch",
+    "upgraded": false,
+    "title": "弱化之触",
+    "filename": "Enfeebling_touch.png"
+  },
+  {
+    "card": "EnfeeblingTouch",
+    "upgraded": true,
+    "title": "弱化之触+",
+    "filename": "Enfeebling_touch_upgrade.png"
+  },
+  {
+    "card": "Envenom",
+    "upgraded": false,
+    "title": "涂毒",
+    "filename": "Envenom.png"
+  },
+  {
+    "card": "Envenom",
+    "upgraded": true,
+    "title": "涂毒+",
+    "filename": "Envenom_upgrade.png"
+  },
+  {
+    "card": "Eradicate",
+    "upgraded": false,
+    "title": "根除",
+    "filename": "Eradicate.png"
+  },
+  {
+    "card": "Eradicate",
+    "upgraded": true,
+    "title": "根除+",
+    "filename": "Eradicate_upgrade.png"
+  },
+  {
+    "card": "EscapePlan",
+    "upgraded": false,
+    "title": "逃脱计划",
+    "filename": "Escape_plan.png"
+  },
+  {
+    "card": "EscapePlan",
+    "upgraded": true,
+    "title": "逃脱计划+",
+    "filename": "Escape_plan_upgrade.png"
+  },
+  {
+    "card": "EvilEye",
+    "upgraded": false,
+    "title": "邪眼",
+    "filename": "Evil_eye.png"
+  },
+  {
+    "card": "EvilEye",
+    "upgraded": true,
+    "title": "邪眼+",
+    "filename": "Evil_eye_upgrade.png"
+  },
+  {
+    "card": "ExpectAFight",
+    "upgraded": false,
+    "title": "跃跃欲试",
+    "filename": "Expect_a_fight.png"
+  },
+  {
+    "card": "ExpectAFight",
+    "upgraded": true,
+    "title": "跃跃欲试+",
+    "filename": "Expect_a_fight_upgrade.png"
+  },
+  {
+    "card": "Expertise",
+    "upgraded": false,
+    "title": "独门技术",
+    "filename": "Expertise.png"
+  },
+  {
+    "card": "Expertise",
+    "upgraded": true,
+    "title": "独门技术+",
+    "filename": "Expertise_upgrade.png"
+  },
+  {
+    "card": "Expose",
+    "upgraded": false,
+    "title": "暴露",
+    "filename": "Expose.png"
+  },
+  {
+    "card": "Expose",
+    "upgraded": true,
+    "title": "暴露+",
+    "filename": "Expose_upgrade.png"
+  },
+  {
+    "card": "FallingStar",
+    "upgraded": false,
+    "title": "陨星",
+    "filename": "Falling_star.png"
+  },
+  {
+    "card": "FallingStar",
+    "upgraded": true,
+    "title": "陨星+",
+    "filename": "Falling_star_upgrade.png"
+  },
+  {
+    "card": "FanOfKnives",
+    "upgraded": false,
+    "title": "刀扇",
+    "filename": "Fan_of_knives.png"
+  },
+  {
+    "card": "FanOfKnives",
+    "upgraded": true,
+    "title": "刀扇+",
+    "filename": "Fan_of_knives_upgrade.png"
+  },
+  {
+    "card": "Fear",
+    "upgraded": false,
+    "title": "恐惧",
+    "filename": "Fear.png"
+  },
+  {
+    "card": "Fear",
+    "upgraded": true,
+    "title": "恐惧+",
+    "filename": "Fear_upgrade.png"
+  },
+  {
+    "card": "FeelNoPain",
+    "upgraded": false,
+    "title": "无惧疼痛",
+    "filename": "Feel_no_pain.png"
+  },
+  {
+    "card": "FeelNoPain",
+    "upgraded": true,
+    "title": "无惧疼痛+",
+    "filename": "Feel_no_pain_upgrade.png"
+  },
+  {
+    "card": "Feral",
+    "upgraded": false,
+    "title": "野性",
+    "filename": "Feral.png"
+  },
+  {
+    "card": "Feral",
+    "upgraded": true,
+    "title": "野性+",
+    "filename": "Feral_upgrade.png"
+  },
+  {
+    "card": "Fetch",
+    "upgraded": false,
+    "title": "取回",
+    "filename": "Fetch.png"
+  },
+  {
+    "card": "Fetch",
+    "upgraded": true,
+    "title": "取回+",
+    "filename": "Fetch_upgrade.png"
+  },
+  {
+    "card": "FiendFire",
+    "upgraded": false,
+    "title": "恶魔之焰",
+    "filename": "Fiend_fire.png"
+  },
+  {
+    "card": "FiendFire",
+    "upgraded": true,
+    "title": "恶魔之焰+",
+    "filename": "Fiend_fire_upgrade.png"
+  },
+  {
+    "card": "FightMe",
+    "upgraded": false,
+    "title": "与我一战！",
+    "filename": "Fight_me.png"
+  },
+  {
+    "card": "FightMe",
+    "upgraded": true,
+    "title": "与我一战！+",
+    "filename": "Fight_me_upgrade.png"
+  },
+  {
+    "card": "FightThrough",
+    "upgraded": false,
+    "title": "强撑",
+    "filename": "Fight_through.png"
+  },
+  {
+    "card": "FightThrough",
+    "upgraded": true,
+    "title": "强撑+",
+    "filename": "Fight_through_upgrade.png"
+  },
+  {
+    "card": "Finisher",
+    "upgraded": false,
+    "title": "终结技",
+    "filename": "Finisher.png"
+  },
+  {
+    "card": "Finisher",
+    "upgraded": true,
+    "title": "终结技+",
+    "filename": "Finisher_upgrade.png"
+  },
+  {
+    "card": "FlakCannon",
+    "upgraded": false,
+    "title": "散射炮",
+    "filename": "Flak_cannon.png"
+  },
+  {
+    "card": "FlakCannon",
+    "upgraded": true,
+    "title": "散射炮+",
+    "filename": "Flak_cannon_upgrade.png"
+  },
+  {
+    "card": "FlameBarrier",
+    "upgraded": false,
+    "title": "火焰屏障",
+    "filename": "Flame_barrier.png"
+  },
+  {
+    "card": "FlameBarrier",
+    "upgraded": true,
+    "title": "火焰屏障+",
+    "filename": "Flame_barrier_upgrade.png"
+  },
+  {
+    "card": "Flatten",
+    "upgraded": false,
+    "title": "重压",
+    "filename": "Flatten.png"
+  },
+  {
+    "card": "Flatten",
+    "upgraded": true,
+    "title": "重压+",
+    "filename": "Flatten_upgrade.png"
+  },
+  {
+    "card": "Flechettes",
+    "upgraded": false,
+    "title": "飞镖",
+    "filename": "Flechettes.png"
+  },
+  {
+    "card": "Flechettes",
+    "upgraded": true,
+    "title": "飞镖+",
+    "filename": "Flechettes_upgrade.png"
+  },
+  {
+    "card": "FlickFlack",
+    "upgraded": false,
+    "title": "翻越撑击",
+    "filename": "Flick_flack.png"
+  },
+  {
+    "card": "FlickFlack",
+    "upgraded": true,
+    "title": "翻越撑击+",
+    "filename": "Flick_flack_upgrade.png"
+  },
+  {
+    "card": "FocusedStrike",
+    "upgraded": false,
+    "title": "集中打击",
+    "filename": "Focused_strike.png"
+  },
+  {
+    "card": "FocusedStrike",
+    "upgraded": true,
+    "title": "集中打击+",
+    "filename": "Focused_strike_upgrade.png"
+  },
+  {
+    "card": "Footwork",
+    "upgraded": false,
+    "title": "灵动步法",
+    "filename": "Footwork.png"
+  },
+  {
+    "card": "Footwork",
+    "upgraded": true,
+    "title": "灵动步法+",
+    "filename": "Footwork_upgrade.png"
+  },
+  {
+    "card": "ForegoneConclusion",
+    "upgraded": false,
+    "title": "既定事项",
+    "filename": "Foregone_conclusion.png"
+  },
+  {
+    "card": "ForegoneConclusion",
+    "upgraded": true,
+    "title": "既定事项+",
+    "filename": "Foregone_conclusion_upgrade.png"
+  },
+  {
+    "card": "ForgottenRitual",
+    "upgraded": false,
+    "title": "被遗忘的仪式",
+    "filename": "Forgotten_ritual.png"
+  },
+  {
+    "card": "ForgottenRitual",
+    "upgraded": true,
+    "title": "被遗忘的仪式+",
+    "filename": "Forgotten_ritual_upgrade.png"
+  },
+  {
+    "card": "Friendship",
+    "upgraded": false,
+    "title": "友谊",
+    "filename": "Friendship.png"
+  },
+  {
+    "card": "Friendship",
+    "upgraded": true,
+    "title": "友谊+",
+    "filename": "Friendship_upgrade.png"
+  },
+  {
+    "card": "Ftl",
+    "upgraded": false,
+    "title": "超越光速",
+    "filename": "Ftl.png"
+  },
+  {
+    "card": "Ftl",
+    "upgraded": true,
+    "title": "超越光速+",
+    "filename": "Ftl_upgrade.png"
+  },
+  {
+    "card": "Furnace",
+    "upgraded": false,
+    "title": "熔炉",
+    "filename": "Furnace.png"
+  },
+  {
+    "card": "Furnace",
+    "upgraded": true,
+    "title": "熔炉+",
+    "filename": "Furnace_upgrade.png"
+  },
+  {
+    "card": "Fusion",
+    "upgraded": false,
+    "title": "聚变",
+    "filename": "Fusion.png"
+  },
+  {
+    "card": "Fusion",
+    "upgraded": true,
+    "title": "聚变+",
+    "filename": "Fusion_upgrade.png"
+  },
+  {
+    "card": "GammaBlast",
+    "upgraded": false,
+    "title": "伽马爆破",
+    "filename": "Gamma_blast.png"
+  },
+  {
+    "card": "GammaBlast",
+    "upgraded": true,
+    "title": "伽马爆破+",
+    "filename": "Gamma_blast_upgrade.png"
+  },
+  {
+    "card": "GatherLight",
+    "upgraded": false,
+    "title": "收集光辉",
+    "filename": "Gather_light.png"
+  },
+  {
+    "card": "GatherLight",
+    "upgraded": true,
+    "title": "收集光辉+",
+    "filename": "Gather_light_upgrade.png"
+  },
+  {
+    "card": "Genesis",
+    "upgraded": false,
+    "title": "创世纪",
+    "filename": "Genesis.png"
+  },
+  {
+    "card": "Genesis",
+    "upgraded": true,
+    "title": "创世纪+",
+    "filename": "Genesis_upgrade.png"
+  },
+  {
+    "card": "Glacier",
+    "upgraded": false,
+    "title": "冰川",
+    "filename": "Glacier.png"
+  },
+  {
+    "card": "Glacier",
+    "upgraded": true,
+    "title": "冰川+",
+    "filename": "Glacier_upgrade.png"
+  },
+  {
+    "card": "Glasswork",
+    "upgraded": false,
+    "title": "玻璃工艺",
+    "filename": "Glasswork.png"
+  },
+  {
+    "card": "Glasswork",
+    "upgraded": true,
+    "title": "玻璃工艺+",
+    "filename": "Glasswork_upgrade.png"
+  },
+  {
+    "card": "Glimmer",
+    "upgraded": false,
+    "title": "微光",
+    "filename": "Glimmer.png"
+  },
+  {
+    "card": "Glimmer",
+    "upgraded": true,
+    "title": "微光+",
+    "filename": "Glimmer_upgrade.png"
+  },
+  {
+    "card": "Glitterstream",
+    "upgraded": false,
+    "title": "流光溢彩",
+    "filename": "Glitterstream.png"
+  },
+  {
+    "card": "Glitterstream",
+    "upgraded": true,
+    "title": "流光溢彩+",
+    "filename": "Glitterstream_upgrade.png"
+  },
+  {
+    "card": "Glow",
+    "upgraded": false,
+    "title": "辉光",
+    "filename": "Glow.png"
+  },
+  {
+    "card": "Glow",
+    "upgraded": true,
+    "title": "辉光+",
+    "filename": "Glow_upgrade.png"
+  },
+  {
+    "card": "GoForTheEyes",
+    "upgraded": false,
+    "title": "眼部攻击",
+    "filename": "Go_for_the_eyes.png"
+  },
+  {
+    "card": "GoForTheEyes",
+    "upgraded": true,
+    "title": "眼部攻击+",
+    "filename": "Go_for_the_eyes_upgrade.png"
+  },
+  {
+    "card": "GrandFinale",
+    "upgraded": false,
+    "title": "华丽收场",
+    "filename": "Grand_finale.png"
+  },
+  {
+    "card": "GrandFinale",
+    "upgraded": true,
+    "title": "华丽收场+",
+    "filename": "Grand_finale_upgrade.png"
+  },
+  {
+    "card": "GraveWarden",
+    "upgraded": false,
+    "title": "守墓人",
+    "filename": "Grave_warden.png"
+  },
+  {
+    "card": "GraveWarden",
+    "upgraded": true,
+    "title": "守墓人+",
+    "filename": "Grave_warden_upgrade.png"
+  },
+  {
+    "card": "Graveblast",
+    "upgraded": false,
+    "title": "坟冢爆射",
+    "filename": "Graveblast.png"
+  },
+  {
+    "card": "Graveblast",
+    "upgraded": true,
+    "title": "坟冢爆射+",
+    "filename": "Graveblast_upgrade.png"
+  },
+  {
+    "card": "Guards",
+    "upgraded": false,
+    "title": "护驾！！！",
+    "filename": "Guards.png"
+  },
+  {
+    "card": "Guards",
+    "upgraded": true,
+    "title": "护驾！！！+",
+    "filename": "Guards_upgrade.png"
+  },
+  {
+    "card": "GuidingStar",
+    "upgraded": false,
+    "title": "引导之星",
+    "filename": "Guiding_star.png"
+  },
+  {
+    "card": "GuidingStar",
+    "upgraded": true,
+    "title": "引导之星+",
+    "filename": "Guiding_star_upgrade.png"
+  },
+  {
+    "card": "GunkUp",
+    "upgraded": false,
+    "title": "污秽攻击",
+    "filename": "Gunk_up.png"
+  },
+  {
+    "card": "GunkUp",
+    "upgraded": true,
+    "title": "污秽攻击+",
+    "filename": "Gunk_up_upgrade.png"
+  },
+  {
+    "card": "Hailstorm",
+    "upgraded": false,
+    "title": "冰雹风暴",
+    "filename": "Hailstorm.png"
+  },
+  {
+    "card": "Hailstorm",
+    "upgraded": true,
+    "title": "冰雹风暴+",
+    "filename": "Hailstorm_upgrade.png"
+  },
+  {
+    "card": "HandTrick",
+    "upgraded": false,
+    "title": "手上技法",
+    "filename": "Hand_trick.png"
+  },
+  {
+    "card": "HandTrick",
+    "upgraded": true,
+    "title": "手上技法+",
+    "filename": "Hand_trick_upgrade.png"
+  },
+  {
+    "card": "Hang",
+    "upgraded": false,
+    "title": "吊杀",
+    "filename": "Hang.png"
+  },
+  {
+    "card": "Hang",
+    "upgraded": true,
+    "title": "吊杀+",
+    "filename": "Hang_upgrade.png"
+  },
+  {
+    "card": "Haunt",
+    "upgraded": false,
+    "title": "纠缠",
+    "filename": "Haunt.png"
+  },
+  {
+    "card": "Haunt",
+    "upgraded": true,
+    "title": "纠缠+",
+    "filename": "Haunt_upgrade.png"
+  },
+  {
+    "card": "Havoc",
+    "upgraded": false,
+    "title": "破灭",
+    "filename": "Havoc.png"
+  },
+  {
+    "card": "Havoc",
+    "upgraded": true,
+    "title": "破灭+",
+    "filename": "Havoc_upgrade.png"
+  },
+  {
+    "card": "Haze",
+    "upgraded": false,
+    "title": "迷雾",
+    "filename": "Haze.png"
+  },
+  {
+    "card": "Haze",
+    "upgraded": true,
+    "title": "迷雾+",
+    "filename": "Haze_upgrade.png"
+  },
+  {
+    "card": "Headbutt",
+    "upgraded": false,
+    "title": "头槌",
+    "filename": "Headbutt.png"
+  },
+  {
+    "card": "Headbutt",
+    "upgraded": true,
+    "title": "头槌+",
+    "filename": "Headbutt_upgrade.png"
+  },
+  {
+    "card": "HeavenlyDrill",
+    "upgraded": false,
+    "title": "天际钻头",
+    "filename": "Heavenly_drill.png"
+  },
+  {
+    "card": "HeavenlyDrill",
+    "upgraded": true,
+    "title": "天际钻头+",
+    "filename": "Heavenly_drill_upgrade.png"
+  },
+  {
+    "card": "Hegemony",
+    "upgraded": false,
+    "title": "霸权",
+    "filename": "Hegemony.png"
+  },
+  {
+    "card": "Hegemony",
+    "upgraded": true,
+    "title": "霸权+",
+    "filename": "Hegemony_upgrade.png"
+  },
+  {
+    "card": "HeirloomHammer",
+    "upgraded": false,
+    "title": "传承之锤",
+    "filename": "Heirloom_hammer.png"
+  },
+  {
+    "card": "HeirloomHammer",
+    "upgraded": true,
+    "title": "传承之锤+",
+    "filename": "Heirloom_hammer_upgrade.png"
+  },
+  {
+    "card": "HelixDrill",
+    "upgraded": false,
+    "title": "螺旋钻击",
+    "filename": "Helix_drill.png"
+  },
+  {
+    "card": "HelixDrill",
+    "upgraded": true,
+    "title": "螺旋钻击+",
+    "filename": "Helix_drill_upgrade.png"
+  },
+  {
+    "card": "Hellraiser",
+    "upgraded": false,
+    "title": "地狱狂徒",
+    "filename": "Hellraiser.png"
+  },
+  {
+    "card": "Hellraiser",
+    "upgraded": true,
+    "title": "地狱狂徒+",
+    "filename": "Hellraiser_upgrade.png"
+  },
+  {
+    "card": "Hemokinesis",
+    "upgraded": false,
+    "title": "御血术",
+    "filename": "Hemokinesis.png"
+  },
+  {
+    "card": "Hemokinesis",
+    "upgraded": true,
+    "title": "御血术+",
+    "filename": "Hemokinesis_upgrade.png"
+  },
+  {
+    "card": "HiddenCache",
+    "upgraded": false,
+    "title": "隐秘藏品",
+    "filename": "Hidden_cache.png"
+  },
+  {
+    "card": "HiddenCache",
+    "upgraded": true,
+    "title": "隐秘藏品+",
+    "filename": "Hidden_cache_upgrade.png"
+  },
+  {
+    "card": "HiddenDaggers",
+    "upgraded": false,
+    "title": "隐秘匕首",
+    "filename": "Hidden_daggers.png"
+  },
+  {
+    "card": "HiddenDaggers",
+    "upgraded": true,
+    "title": "隐秘匕首+",
+    "filename": "Hidden_daggers_upgrade.png"
+  },
+  {
+    "card": "HighFive",
+    "upgraded": false,
+    "title": "击掌",
+    "filename": "High_five.png"
+  },
+  {
+    "card": "HighFive",
+    "upgraded": true,
+    "title": "击掌+",
+    "filename": "High_five_upgrade.png"
+  },
+  {
+    "card": "Hologram",
+    "upgraded": false,
+    "title": "全息影像",
+    "filename": "Hologram.png"
+  },
+  {
+    "card": "Hologram",
+    "upgraded": true,
+    "title": "全息影像+",
+    "filename": "Hologram_upgrade.png"
+  },
+  {
+    "card": "Hotfix",
+    "upgraded": false,
+    "title": "热修复",
+    "filename": "Hotfix.png"
+  },
+  {
+    "card": "Hotfix",
+    "upgraded": true,
+    "title": "热修复+",
+    "filename": "Hotfix_upgrade.png"
+  },
+  {
+    "card": "HowlFromBeyond",
+    "upgraded": false,
+    "title": "彼岸咆哮",
+    "filename": "Howl_from_beyond.png"
+  },
+  {
+    "card": "HowlFromBeyond",
+    "upgraded": true,
+    "title": "彼岸咆哮+",
+    "filename": "Howl_from_beyond_upgrade.png"
+  },
+  {
+    "card": "Hyperbeam",
+    "upgraded": false,
+    "title": "超能光束",
+    "filename": "Hyperbeam.png"
+  },
+  {
+    "card": "Hyperbeam",
+    "upgraded": true,
+    "title": "超能光束+",
+    "filename": "Hyperbeam_upgrade.png"
+  },
+  {
+    "card": "IAmInvincible",
+    "upgraded": false,
+    "title": "所向无敌",
+    "filename": "I_am_invincible.png"
+  },
+  {
+    "card": "IAmInvincible",
+    "upgraded": true,
+    "title": "所向无敌+",
+    "filename": "I_am_invincible_upgrade.png"
+  },
+  {
+    "card": "IceLance",
+    "upgraded": false,
+    "title": "冰之长枪",
+    "filename": "Ice_lance.png"
+  },
+  {
+    "card": "IceLance",
+    "upgraded": true,
+    "title": "冰之长枪+",
+    "filename": "Ice_lance_upgrade.png"
+  },
+  {
+    "card": "Impervious",
+    "upgraded": false,
+    "title": "岿然不动",
+    "filename": "Impervious.png"
+  },
+  {
+    "card": "Impervious",
+    "upgraded": true,
+    "title": "岿然不动+",
+    "filename": "Impervious_upgrade.png"
+  },
+  {
+    "card": "InfernalBlade",
+    "upgraded": false,
+    "title": "地狱之刃",
+    "filename": "Infernal_blade.png"
+  },
+  {
+    "card": "InfernalBlade",
+    "upgraded": true,
+    "title": "地狱之刃+",
+    "filename": "Infernal_blade_upgrade.png"
+  },
+  {
+    "card": "Inferno",
+    "upgraded": false,
+    "title": "狱火",
+    "filename": "Inferno.png"
+  },
+  {
+    "card": "Inferno",
+    "upgraded": true,
+    "title": "狱火+",
+    "filename": "Inferno_upgrade.png"
+  },
+  {
+    "card": "InfiniteBlades",
+    "upgraded": false,
+    "title": "无尽刀刃",
+    "filename": "Infinite_blades.png"
+  },
+  {
+    "card": "InfiniteBlades",
+    "upgraded": true,
+    "title": "无尽刀刃+",
+    "filename": "Infinite_blades_upgrade.png"
+  },
+  {
+    "card": "Inflame",
+    "upgraded": false,
+    "title": "燃烧",
+    "filename": "Inflame.png"
+  },
+  {
+    "card": "Inflame",
+    "upgraded": true,
+    "title": "燃烧+",
+    "filename": "Inflame_upgrade.png"
+  },
+  {
+    "card": "Invoke",
+    "upgraded": false,
+    "title": "唤起",
+    "filename": "Invoke.png"
+  },
+  {
+    "card": "Invoke",
+    "upgraded": true,
+    "title": "唤起+",
+    "filename": "Invoke_upgrade.png"
+  },
+  {
+    "card": "IronWave",
+    "upgraded": false,
+    "title": "铁斩波",
+    "filename": "Iron_wave.png"
+  },
+  {
+    "card": "IronWave",
+    "upgraded": true,
+    "title": "铁斩波+",
+    "filename": "Iron_wave_upgrade.png"
+  },
+  {
+    "card": "Iteration",
+    "upgraded": false,
+    "title": "迭代",
+    "filename": "Iteration.png"
+  },
+  {
+    "card": "Iteration",
+    "upgraded": true,
+    "title": "迭代+",
+    "filename": "Iteration_upgrade.png"
+  },
+  {
+    "card": "Juggernaut",
+    "upgraded": false,
+    "title": "势不可当",
+    "filename": "Juggernaut.png"
+  },
+  {
+    "card": "Juggernaut",
+    "upgraded": true,
+    "title": "势不可当+",
+    "filename": "Juggernaut_upgrade.png"
+  },
+  {
+    "card": "Juggling",
+    "upgraded": false,
+    "title": "杂耍",
+    "filename": "Juggling.png"
+  },
+  {
+    "card": "Juggling",
+    "upgraded": true,
+    "title": "杂耍+",
+    "filename": "Juggling_upgrade.png"
+  },
+  {
+    "card": "KinglyKick",
+    "upgraded": false,
+    "title": "王者之踢",
+    "filename": "Kingly_kick.png"
+  },
+  {
+    "card": "KinglyKick",
+    "upgraded": true,
+    "title": "王者之踢+",
+    "filename": "Kingly_kick_upgrade.png"
+  },
+  {
+    "card": "KinglyPunch",
+    "upgraded": false,
+    "title": "王者之拳",
+    "filename": "Kingly_punch.png"
+  },
+  {
+    "card": "KinglyPunch",
+    "upgraded": true,
+    "title": "王者之拳+",
+    "filename": "Kingly_punch_upgrade.png"
+  },
+  {
+    "card": "KnifeTrap",
+    "upgraded": false,
+    "title": "刀刃陷阱",
+    "filename": "Knife_trap.png"
+  },
+  {
+    "card": "KnifeTrap",
+    "upgraded": true,
+    "title": "刀刃陷阱+",
+    "filename": "Knife_trap_upgrade.png"
+  },
+  {
+    "card": "KnockoutBlow",
+    "upgraded": false,
+    "title": "决胜一击",
+    "filename": "Knockout_blow.png"
+  },
+  {
+    "card": "KnockoutBlow",
+    "upgraded": true,
+    "title": "决胜一击+",
+    "filename": "Knockout_blow_upgrade.png"
+  },
+  {
+    "card": "KnowThyPlace",
+    "upgraded": false,
+    "title": "何人僭越",
+    "filename": "Know_thy_place.png"
+  },
+  {
+    "card": "KnowThyPlace",
+    "upgraded": true,
+    "title": "何人僭越+",
+    "filename": "Know_thy_place_upgrade.png"
+  },
+  {
+    "card": "LeadingStrike",
+    "upgraded": false,
+    "title": "先制打击",
+    "filename": "Leading_strike.png"
+  },
+  {
+    "card": "LeadingStrike",
+    "upgraded": true,
+    "title": "先制打击+",
+    "filename": "Leading_strike_upgrade.png"
+  },
+  {
+    "card": "Leap",
+    "upgraded": false,
+    "title": "飞跃",
+    "filename": "Leap.png"
+  },
+  {
+    "card": "Leap",
+    "upgraded": true,
+    "title": "飞跃+",
+    "filename": "Leap_upgrade.png"
+  },
+  {
+    "card": "LegSweep",
+    "upgraded": false,
+    "title": "扫腿",
+    "filename": "Leg_sweep.png"
+  },
+  {
+    "card": "LegSweep",
+    "upgraded": true,
+    "title": "扫腿+",
+    "filename": "Leg_sweep_upgrade.png"
+  },
+  {
+    "card": "Lethality",
+    "upgraded": false,
+    "title": "致死性",
+    "filename": "Lethality.png"
+  },
+  {
+    "card": "Lethality",
+    "upgraded": true,
+    "title": "致死性+",
+    "filename": "Lethality_upgrade.png"
+  },
+  {
+    "card": "LightningRod",
+    "upgraded": false,
+    "title": "引雷针",
+    "filename": "Lightning_rod.png"
+  },
+  {
+    "card": "LightningRod",
+    "upgraded": true,
+    "title": "引雷针+",
+    "filename": "Lightning_rod_upgrade.png"
+  },
+  {
+    "card": "Loop",
+    "upgraded": false,
+    "title": "循环",
+    "filename": "Loop.png"
+  },
+  {
+    "card": "Loop",
+    "upgraded": true,
+    "title": "循环+",
+    "filename": "Loop_upgrade.png"
+  },
+  {
+    "card": "LunarBlast",
+    "upgraded": false,
+    "title": "月面射击",
+    "filename": "Lunar_blast.png"
+  },
+  {
+    "card": "LunarBlast",
+    "upgraded": true,
+    "title": "月面射击+",
+    "filename": "Lunar_blast_upgrade.png"
+  },
+  {
+    "card": "MachineLearning",
+    "upgraded": false,
+    "title": "机器学习",
+    "filename": "Machine_learning.png"
+  },
+  {
+    "card": "MachineLearning",
+    "upgraded": true,
+    "title": "机器学习+",
+    "filename": "Machine_learning_upgrade.png"
+  },
+  {
+    "card": "MakeItSo",
+    "upgraded": false,
+    "title": "如此甚好",
+    "filename": "Make_it_so.png"
+  },
+  {
+    "card": "MakeItSo",
+    "upgraded": true,
+    "title": "如此甚好+",
+    "filename": "Make_it_so_upgrade.png"
+  },
+  {
+    "card": "Malaise",
+    "upgraded": false,
+    "title": "萎靡",
+    "filename": "Malaise.png"
+  },
+  {
+    "card": "Malaise",
+    "upgraded": true,
+    "title": "萎靡+",
+    "filename": "Malaise_upgrade.png"
+  },
+  {
+    "card": "Mangle",
+    "upgraded": false,
+    "title": "凌虐",
+    "filename": "Mangle.png"
+  },
+  {
+    "card": "Mangle",
+    "upgraded": true,
+    "title": "凌虐+",
+    "filename": "Mangle_upgrade.png"
+  },
+  {
+    "card": "ManifestAuthority",
+    "upgraded": false,
+    "title": "君权自授",
+    "filename": "Manifest_authority.png"
+  },
+  {
+    "card": "ManifestAuthority",
+    "upgraded": true,
+    "title": "君权自授+",
+    "filename": "Manifest_authority_upgrade.png"
+  },
+  {
+    "card": "MasterPlanner",
+    "upgraded": false,
+    "title": "谋划专家",
+    "filename": "Master_planner.png"
+  },
+  {
+    "card": "MasterPlanner",
+    "upgraded": true,
+    "title": "谋划专家+",
+    "filename": "Master_planner_upgrade.png"
+  },
+  {
+    "card": "Melancholy",
+    "upgraded": false,
+    "title": "忧郁",
+    "filename": "Melancholy.png"
+  },
+  {
+    "card": "Melancholy",
+    "upgraded": true,
+    "title": "忧郁+",
+    "filename": "Melancholy_upgrade.png"
+  },
+  {
+    "card": "MementoMori",
+    "upgraded": false,
+    "title": "铭记死亡",
+    "filename": "Memento_mori.png"
+  },
+  {
+    "card": "MementoMori",
+    "upgraded": true,
+    "title": "铭记死亡+",
+    "filename": "Memento_mori_upgrade.png"
+  },
+  {
+    "card": "MeteorStrike",
+    "upgraded": false,
+    "title": "陨石打击",
+    "filename": "Meteor_strike.png"
+  },
+  {
+    "card": "MeteorStrike",
+    "upgraded": true,
+    "title": "陨石打击+",
+    "filename": "Meteor_strike_upgrade.png"
+  },
+  {
+    "card": "Mirage",
+    "upgraded": false,
+    "title": "蜃景",
+    "filename": "Mirage.png"
+  },
+  {
+    "card": "Mirage",
+    "upgraded": true,
+    "title": "蜃景+",
+    "filename": "Mirage_upgrade.png"
+  },
+  {
+    "card": "Misery",
+    "upgraded": false,
+    "title": "苦难",
+    "filename": "Misery.png"
+  },
+  {
+    "card": "Misery",
+    "upgraded": true,
+    "title": "苦难+",
+    "filename": "Misery_upgrade.png"
+  },
+  {
+    "card": "Modded",
+    "upgraded": false,
+    "title": "模组改造",
+    "filename": "Modded.png"
+  },
+  {
+    "card": "Modded",
+    "upgraded": true,
+    "title": "模组改造+",
+    "filename": "Modded_upgrade.png"
+  },
+  {
+    "card": "MoltenFist",
+    "upgraded": false,
+    "title": "熔融之拳",
+    "filename": "Molten_fist.png"
+  },
+  {
+    "card": "MoltenFist",
+    "upgraded": true,
+    "title": "熔融之拳+",
+    "filename": "Molten_fist_upgrade.png"
+  },
+  {
+    "card": "MomentumStrike",
+    "upgraded": false,
+    "title": "趁势打击",
+    "filename": "Momentum_strike.png"
+  },
+  {
+    "card": "MomentumStrike",
+    "upgraded": true,
+    "title": "趁势打击+",
+    "filename": "Momentum_strike_upgrade.png"
+  },
+  {
+    "card": "MonarchsGaze",
+    "upgraded": false,
+    "title": "王之凝视",
+    "filename": "Monarchs_gaze.png"
+  },
+  {
+    "card": "MonarchsGaze",
+    "upgraded": true,
+    "title": "王之凝视+",
+    "filename": "Monarchs_gaze_upgrade.png"
+  },
+  {
+    "card": "Monologue",
+    "upgraded": false,
+    "title": "独白",
+    "filename": "Monologue.png"
+  },
+  {
+    "card": "Monologue",
+    "upgraded": true,
+    "title": "独白+",
+    "filename": "Monologue_upgrade.png"
+  },
+  {
+    "card": "MultiCast",
+    "upgraded": false,
+    "title": "多重释放",
+    "filename": "Multi_cast.png"
+  },
+  {
+    "card": "MultiCast",
+    "upgraded": true,
+    "title": "多重释放+",
+    "filename": "Multi_cast_upgrade.png"
+  },
+  {
+    "card": "Murder",
+    "upgraded": false,
+    "title": "谋杀",
+    "filename": "Murder.png"
+  },
+  {
+    "card": "Murder",
+    "upgraded": true,
+    "title": "谋杀+",
+    "filename": "Murder_upgrade.png"
+  },
+  {
+    "card": "NecroMastery",
+    "upgraded": false,
+    "title": "亡灵精通",
+    "filename": "Necro_mastery.png"
+  },
+  {
+    "card": "NecroMastery",
+    "upgraded": true,
+    "title": "亡灵精通+",
+    "filename": "Necro_mastery_upgrade.png"
+  },
+  {
+    "card": "NegativePulse",
+    "upgraded": false,
+    "title": "负能量脉冲",
+    "filename": "Negative_pulse.png"
+  },
+  {
+    "card": "NegativePulse",
+    "upgraded": true,
+    "title": "负能量脉冲+",
+    "filename": "Negative_pulse_upgrade.png"
+  },
+  {
+    "card": "Neurosurge",
+    "upgraded": false,
+    "title": "精神过载",
+    "filename": "Neurosurge.png"
+  },
+  {
+    "card": "Neurosurge",
+    "upgraded": true,
+    "title": "精神过载+",
+    "filename": "Neurosurge_upgrade.png"
+  },
+  {
+    "card": "Neutralize",
+    "upgraded": false,
+    "title": "中和",
+    "filename": "Neutralize.png"
+  },
+  {
+    "card": "Neutralize",
+    "upgraded": true,
+    "title": "中和+",
+    "filename": "Neutralize_upgrade.png"
+  },
+  {
+    "card": "NeutronAegis",
+    "upgraded": false,
+    "title": "中子护盾",
+    "filename": "Neutron_aegis.png"
+  },
+  {
+    "card": "NeutronAegis",
+    "upgraded": true,
+    "title": "中子护盾+",
+    "filename": "Neutron_aegis_upgrade.png"
+  },
+  {
+    "card": "Nightmare",
+    "upgraded": false,
+    "title": "夜魇",
+    "filename": "Nightmare.png"
+  },
+  {
+    "card": "Nightmare",
+    "upgraded": true,
+    "title": "夜魇+",
+    "filename": "Nightmare_upgrade.png"
+  },
+  {
+    "card": "NoEscape",
+    "upgraded": false,
+    "title": "无处可逃",
+    "filename": "No_escape.png"
+  },
+  {
+    "card": "NoEscape",
+    "upgraded": true,
+    "title": "无处可逃+",
+    "filename": "No_escape_upgrade.png"
+  },
+  {
+    "card": "NotYet",
+    "upgraded": false,
+    "title": "时候未到",
+    "filename": "Not_yet.png"
+  },
+  {
+    "card": "NotYet",
+    "upgraded": true,
+    "title": "时候未到+",
+    "filename": "Not_yet_upgrade.png"
+  },
+  {
+    "card": "NoxiousFumes",
+    "upgraded": false,
+    "title": "毒雾",
+    "filename": "Noxious_fumes.png"
+  },
+  {
+    "card": "NoxiousFumes",
+    "upgraded": true,
+    "title": "毒雾+",
+    "filename": "Noxious_fumes_upgrade.png"
+  },
+  {
+    "card": "Null",
+    "upgraded": false,
+    "title": "空值",
+    "filename": "Null.png"
+  },
+  {
+    "card": "Null",
+    "upgraded": true,
+    "title": "空值+",
+    "filename": "Null_upgrade.png"
+  },
+  {
+    "card": "Oblivion",
+    "upgraded": false,
+    "title": "湮灭",
+    "filename": "Oblivion.png"
+  },
+  {
+    "card": "Oblivion",
+    "upgraded": true,
+    "title": "湮灭+",
+    "filename": "Oblivion_upgrade.png"
+  },
+  {
+    "card": "Offering",
+    "upgraded": false,
+    "title": "祭品",
+    "filename": "Offering.png"
+  },
+  {
+    "card": "Offering",
+    "upgraded": true,
+    "title": "祭品+",
+    "filename": "Offering_upgrade.png"
+  },
+  {
+    "card": "OneTwoPunch",
+    "upgraded": false,
+    "title": "连环拳",
+    "filename": "One_two_punch.png"
+  },
+  {
+    "card": "OneTwoPunch",
+    "upgraded": true,
+    "title": "连环拳+",
+    "filename": "One_two_punch_upgrade.png"
+  },
+  {
+    "card": "Orbit",
+    "upgraded": false,
+    "title": "环绕轨道",
+    "filename": "Orbit.png"
+  },
+  {
+    "card": "Orbit",
+    "upgraded": true,
+    "title": "环绕轨道+",
+    "filename": "Orbit_upgrade.png"
+  },
+  {
+    "card": "Outbreak",
+    "upgraded": false,
+    "title": "毒性爆发",
+    "filename": "Outbreak.png"
+  },
+  {
+    "card": "Outbreak",
+    "upgraded": true,
+    "title": "毒性爆发+",
+    "filename": "Outbreak_upgrade.png"
+  },
+  {
+    "card": "Overclock",
+    "upgraded": false,
+    "title": "超频",
+    "filename": "Overclock.png"
+  },
+  {
+    "card": "Overclock",
+    "upgraded": true,
+    "title": "超频+",
+    "filename": "Overclock_upgrade.png"
+  },
+  {
+    "card": "PactsEnd",
+    "upgraded": false,
+    "title": "契约终结",
+    "filename": "Pacts_end.png"
+  },
+  {
+    "card": "PactsEnd",
+    "upgraded": true,
+    "title": "契约终结+",
+    "filename": "Pacts_end_upgrade.png"
+  },
+  {
+    "card": "Pagestorm",
+    "upgraded": false,
+    "title": "书页风暴",
+    "filename": "Pagestorm.png"
+  },
+  {
+    "card": "Pagestorm",
+    "upgraded": true,
+    "title": "书页风暴+",
+    "filename": "Pagestorm_upgrade.png"
+  },
+  {
+    "card": "PaleBlueDot",
+    "upgraded": false,
+    "title": "暗淡蓝点",
+    "filename": "Pale_blue_dot.png"
+  },
+  {
+    "card": "PaleBlueDot",
+    "upgraded": true,
+    "title": "暗淡蓝点+",
+    "filename": "Pale_blue_dot_upgrade.png"
+  },
+  {
+    "card": "Parry",
+    "upgraded": false,
+    "title": "招架",
+    "filename": "Parry.png"
+  },
+  {
+    "card": "Parry",
+    "upgraded": true,
+    "title": "招架+",
+    "filename": "Parry_upgrade.png"
+  },
+  {
+    "card": "Parse",
+    "upgraded": false,
+    "title": "领会",
+    "filename": "Parse.png"
+  },
+  {
+    "card": "Parse",
+    "upgraded": true,
+    "title": "领会+",
+    "filename": "Parse_upgrade.png"
+  },
+  {
+    "card": "ParticleWall",
+    "upgraded": false,
+    "title": "粒子墙",
+    "filename": "Particle_wall.png"
+  },
+  {
+    "card": "ParticleWall",
+    "upgraded": true,
+    "title": "粒子墙+",
+    "filename": "Particle_wall_upgrade.png"
+  },
+  {
+    "card": "Patter",
+    "upgraded": false,
+    "title": "星星点点",
+    "filename": "Patter.png"
+  },
+  {
+    "card": "Patter",
+    "upgraded": true,
+    "title": "星星点点+",
+    "filename": "Patter_upgrade.png"
+  },
+  {
+    "card": "PerfectedStrike",
+    "upgraded": false,
+    "title": "完美打击",
+    "filename": "Perfected_strike.png"
+  },
+  {
+    "card": "PerfectedStrike",
+    "upgraded": true,
+    "title": "完美打击+",
+    "filename": "Perfected_strike_upgrade.png"
+  },
+  {
+    "card": "PhantomBlades",
+    "upgraded": false,
+    "title": "幻影之刃",
+    "filename": "Phantom_blades.png"
+  },
+  {
+    "card": "PhantomBlades",
+    "upgraded": true,
+    "title": "幻影之刃+",
+    "filename": "Phantom_blades_upgrade.png"
+  },
+  {
+    "card": "PhotonCut",
+    "upgraded": false,
+    "title": "光子切割",
+    "filename": "Photon_cut.png"
+  },
+  {
+    "card": "PhotonCut",
+    "upgraded": true,
+    "title": "光子切割+",
+    "filename": "Photon_cut_upgrade.png"
+  },
+  {
+    "card": "PiercingWail",
+    "upgraded": false,
+    "title": "尖啸",
+    "filename": "Piercing_wail.png"
+  },
+  {
+    "card": "PiercingWail",
+    "upgraded": true,
+    "title": "尖啸+",
+    "filename": "Piercing_wail_upgrade.png"
+  },
+  {
+    "card": "Pillage",
+    "upgraded": false,
+    "title": "劫掠",
+    "filename": "Pillage.png"
+  },
+  {
+    "card": "Pillage",
+    "upgraded": true,
+    "title": "劫掠+",
+    "filename": "Pillage_upgrade.png"
+  },
+  {
+    "card": "PillarOfCreation",
+    "upgraded": false,
+    "title": "创世之柱",
+    "filename": "Pillar_of_creation.png"
+  },
+  {
+    "card": "PillarOfCreation",
+    "upgraded": true,
+    "title": "创世之柱+",
+    "filename": "Pillar_of_creation_upgrade.png"
+  },
+  {
+    "card": "Pinpoint",
+    "upgraded": false,
+    "title": "精密瞄准",
+    "filename": "Pinpoint.png"
+  },
+  {
+    "card": "Pinpoint",
+    "upgraded": true,
+    "title": "精密瞄准+",
+    "filename": "Pinpoint_upgrade.png"
+  },
+  {
+    "card": "PoisonedStab",
+    "upgraded": false,
+    "title": "带毒刺击",
+    "filename": "Poisoned_stab.png"
+  },
+  {
+    "card": "PoisonedStab",
+    "upgraded": true,
+    "title": "带毒刺击+",
+    "filename": "Poisoned_stab_upgrade.png"
+  },
+  {
+    "card": "Poke",
+    "upgraded": false,
+    "title": "戳击",
+    "filename": "Poke.png"
+  },
+  {
+    "card": "Poke",
+    "upgraded": true,
+    "title": "戳击+",
+    "filename": "Poke_upgrade.png"
+  },
+  {
+    "card": "PommelStrike",
+    "upgraded": false,
+    "title": "剑柄打击",
+    "filename": "Pommel_strike.png"
+  },
+  {
+    "card": "PommelStrike",
+    "upgraded": true,
+    "title": "剑柄打击+",
+    "filename": "Pommel_strike_upgrade.png"
+  },
+  {
+    "card": "Pounce",
+    "upgraded": false,
+    "title": "猛扑",
+    "filename": "Pounce.png"
+  },
+  {
+    "card": "Pounce",
+    "upgraded": true,
+    "title": "猛扑+",
+    "filename": "Pounce_upgrade.png"
+  },
+  {
+    "card": "PreciseCut",
+    "upgraded": false,
+    "title": "精确切击",
+    "filename": "Precise_cut.png"
+  },
+  {
+    "card": "PreciseCut",
+    "upgraded": true,
+    "title": "精确切击+",
+    "filename": "Precise_cut_upgrade.png"
+  },
+  {
+    "card": "Predator",
+    "upgraded": false,
+    "title": "猎杀者",
+    "filename": "Predator.png"
+  },
+  {
+    "card": "Predator",
+    "upgraded": true,
+    "title": "猎杀者+",
+    "filename": "Predator_upgrade.png"
+  },
+  {
+    "card": "Prepared",
+    "upgraded": false,
+    "title": "早有准备",
+    "filename": "Prepared.png"
+  },
+  {
+    "card": "Prepared",
+    "upgraded": true,
+    "title": "早有准备+",
+    "filename": "Prepared_upgrade.png"
+  },
+  {
+    "card": "PrimalForce",
+    "upgraded": false,
+    "title": "原始力量",
+    "filename": "Primal_force.png"
+  },
+  {
+    "card": "PrimalForce",
+    "upgraded": true,
+    "title": "原始力量+",
+    "filename": "Primal_force_upgrade.png"
+  },
+  {
+    "card": "Prophesize",
+    "upgraded": false,
+    "title": "预言",
+    "filename": "Prophesize.png"
+  },
+  {
+    "card": "Prophesize",
+    "upgraded": true,
+    "title": "预言+",
+    "filename": "Prophesize_upgrade.png"
+  },
+  {
+    "card": "PullAggro",
+    "upgraded": false,
+    "title": "吸引仇恨",
+    "filename": "Pull_aggro.png"
+  },
+  {
+    "card": "PullAggro",
+    "upgraded": true,
+    "title": "吸引仇恨+",
+    "filename": "Pull_aggro_upgrade.png"
+  },
+  {
+    "card": "PullFromBelow",
+    "upgraded": false,
+    "title": "亡魂牵引",
+    "filename": "Pull_from_below.png"
+  },
+  {
+    "card": "PullFromBelow",
+    "upgraded": true,
+    "title": "亡魂牵引+",
+    "filename": "Pull_from_below_upgrade.png"
+  },
+  {
+    "card": "Putrefy",
+    "upgraded": false,
+    "title": "腐败",
+    "filename": "Putrefy.png"
+  },
+  {
+    "card": "Putrefy",
+    "upgraded": true,
+    "title": "腐败+",
+    "filename": "Putrefy_upgrade.png"
+  },
+  {
+    "card": "Pyre",
+    "upgraded": false,
+    "title": "薪火之源",
+    "filename": "Pyre.png"
+  },
+  {
+    "card": "Pyre",
+    "upgraded": true,
+    "title": "薪火之源+",
+    "filename": "Pyre_upgrade.png"
+  },
+  {
+    "card": "Quasar",
+    "upgraded": false,
+    "title": "类星体",
+    "filename": "Quasar.png"
+  },
+  {
+    "card": "Quasar",
+    "upgraded": true,
+    "title": "类星体+",
+    "filename": "Quasar_upgrade.png"
+  },
+  {
+    "card": "Radiate",
+    "upgraded": false,
+    "title": "辐射",
+    "filename": "Radiate.png"
+  },
+  {
+    "card": "Radiate",
+    "upgraded": true,
+    "title": "辐射+",
+    "filename": "Radiate_upgrade.png"
+  },
+  {
+    "card": "Rage",
+    "upgraded": false,
+    "title": "狂怒",
+    "filename": "Rage.png"
+  },
+  {
+    "card": "Rage",
+    "upgraded": true,
+    "title": "狂怒+",
+    "filename": "Rage_upgrade.png"
+  },
+  {
+    "card": "Rainbow",
+    "upgraded": false,
+    "title": "彩虹",
+    "filename": "Rainbow.png"
+  },
+  {
+    "card": "Rainbow",
+    "upgraded": true,
+    "title": "彩虹+",
+    "filename": "Rainbow_upgrade.png"
+  },
+  {
+    "card": "Rampage",
+    "upgraded": false,
+    "title": "暴走",
+    "filename": "Rampage.png"
+  },
+  {
+    "card": "Rampage",
+    "upgraded": true,
+    "title": "暴走+",
+    "filename": "Rampage_upgrade.png"
+  },
+  {
+    "card": "Rattle",
+    "upgraded": false,
+    "title": "猛晃",
+    "filename": "Rattle.png"
+  },
+  {
+    "card": "Rattle",
+    "upgraded": true,
+    "title": "猛晃+",
+    "filename": "Rattle_upgrade.png"
+  },
+  {
+    "card": "Reanimate",
+    "upgraded": false,
+    "title": "死者苏生",
+    "filename": "Reanimate.png"
+  },
+  {
+    "card": "Reanimate",
+    "upgraded": true,
+    "title": "死者苏生+",
+    "filename": "Reanimate_upgrade.png"
+  },
+  {
+    "card": "Reap",
+    "upgraded": false,
+    "title": "收割",
+    "filename": "Reap.png"
+  },
+  {
+    "card": "Reap",
+    "upgraded": true,
+    "title": "收割+",
+    "filename": "Reap_upgrade.png"
+  },
+  {
+    "card": "ReaperForm",
+    "upgraded": false,
+    "title": "死神形态",
+    "filename": "Reaper_form.png"
+  },
+  {
+    "card": "ReaperForm",
+    "upgraded": true,
+    "title": "死神形态+",
+    "filename": "Reaper_form_upgrade.png"
+  },
+  {
+    "card": "Reave",
+    "upgraded": false,
+    "title": "剥夺",
+    "filename": "Reave.png"
+  },
+  {
+    "card": "Reave",
+    "upgraded": true,
+    "title": "剥夺+",
+    "filename": "Reave_upgrade.png"
+  },
+  {
+    "card": "Reboot",
+    "upgraded": false,
+    "title": "重启",
+    "filename": "Reboot.png"
+  },
+  {
+    "card": "Reboot",
+    "upgraded": true,
+    "title": "重启+",
+    "filename": "Reboot_upgrade.png"
+  },
+  {
+    "card": "RefineBlade",
+    "upgraded": false,
+    "title": "淬炼刀刃",
+    "filename": "Refine_blade.png"
+  },
+  {
+    "card": "RefineBlade",
+    "upgraded": true,
+    "title": "淬炼刀刃+",
+    "filename": "Refine_blade_upgrade.png"
+  },
+  {
+    "card": "Reflect",
+    "upgraded": false,
+    "title": "倒映",
+    "filename": "Reflect.png"
+  },
+  {
+    "card": "Reflect",
+    "upgraded": true,
+    "title": "倒映+",
+    "filename": "Reflect_upgrade.png"
+  },
+  {
+    "card": "Reflex",
+    "upgraded": false,
+    "title": "本能反应",
+    "filename": "Reflex.png"
+  },
+  {
+    "card": "Reflex",
+    "upgraded": true,
+    "title": "本能反应+",
+    "filename": "Reflex_upgrade.png"
+  },
+  {
+    "card": "Refract",
+    "upgraded": false,
+    "title": "折射",
+    "filename": "Refract.png"
+  },
+  {
+    "card": "Refract",
+    "upgraded": true,
+    "title": "折射+",
+    "filename": "Refract_upgrade.png"
+  },
+  {
+    "card": "Resonance",
+    "upgraded": false,
+    "title": "共鸣",
+    "filename": "Resonance.png"
+  },
+  {
+    "card": "Resonance",
+    "upgraded": true,
+    "title": "共鸣+",
+    "filename": "Resonance_upgrade.png"
+  },
+  {
+    "card": "Ricochet",
+    "upgraded": false,
+    "title": "连续反弹",
+    "filename": "Ricochet.png"
+  },
+  {
+    "card": "Ricochet",
+    "upgraded": true,
+    "title": "连续反弹+",
+    "filename": "Ricochet_upgrade.png"
+  },
+  {
+    "card": "RightHandHand",
+    "upgraded": false,
+    "title": "得力助手",
+    "filename": "Right_hand_hand.png"
+  },
+  {
+    "card": "RightHandHand",
+    "upgraded": true,
+    "title": "得力助手+",
+    "filename": "Right_hand_hand_upgrade.png"
+  },
+  {
+    "card": "RocketPunch",
+    "upgraded": false,
+    "title": "火箭飞拳",
+    "filename": "Rocket_punch.png"
+  },
+  {
+    "card": "RocketPunch",
+    "upgraded": true,
+    "title": "火箭飞拳+",
+    "filename": "Rocket_punch_upgrade.png"
+  },
+  {
+    "card": "RoyalGamble",
+    "upgraded": false,
+    "title": "胜券在王",
+    "filename": "Royal_gamble.png"
+  },
+  {
+    "card": "RoyalGamble",
+    "upgraded": true,
+    "title": "胜券在王+",
+    "filename": "Royal_gamble_upgrade.png"
+  },
+  {
+    "card": "Rupture",
+    "upgraded": false,
+    "title": "撕裂",
+    "filename": "Rupture.png"
+  },
+  {
+    "card": "Rupture",
+    "upgraded": true,
+    "title": "撕裂+",
+    "filename": "Rupture_upgrade.png"
+  },
+  {
+    "card": "Sacrifice",
+    "upgraded": false,
+    "title": "牺牲",
+    "filename": "Sacrifice.png"
+  },
+  {
+    "card": "Sacrifice",
+    "upgraded": true,
+    "title": "牺牲+",
+    "filename": "Sacrifice_upgrade.png"
+  },
+  {
+    "card": "Scavenge",
+    "upgraded": false,
+    "title": "内存清理",
+    "filename": "Scavenge.png"
+  },
+  {
+    "card": "Scavenge",
+    "upgraded": true,
+    "title": "内存清理+",
+    "filename": "Scavenge_upgrade.png"
+  },
+  {
+    "card": "Scourge",
+    "upgraded": false,
+    "title": "鞭打",
+    "filename": "Scourge.png"
+  },
+  {
+    "card": "Scourge",
+    "upgraded": true,
+    "title": "鞭打+",
+    "filename": "Scourge_upgrade.png"
+  },
+  {
+    "card": "Scrape",
+    "upgraded": false,
+    "title": "刮削",
+    "filename": "Scrape.png"
+  },
+  {
+    "card": "Scrape",
+    "upgraded": true,
+    "title": "刮削+",
+    "filename": "Scrape_upgrade.png"
+  },
+  {
+    "card": "SculptingStrike",
+    "upgraded": false,
+    "title": "雕琢打击",
+    "filename": "Sculpting_strike.png"
+  },
+  {
+    "card": "SculptingStrike",
+    "upgraded": true,
+    "title": "雕琢打击+",
+    "filename": "Sculpting_strike_upgrade.png"
+  },
+  {
+    "card": "Seance",
+    "upgraded": false,
+    "title": "降灵",
+    "filename": "Seance.png"
+  },
+  {
+    "card": "Seance",
+    "upgraded": true,
+    "title": "降灵+",
+    "filename": "Seance_upgrade.png"
+  },
+  {
+    "card": "SecondWind",
+    "upgraded": false,
+    "title": "重振精神",
+    "filename": "Second_wind.png"
+  },
+  {
+    "card": "SecondWind",
+    "upgraded": true,
+    "title": "重振精神+",
+    "filename": "Second_wind_upgrade.png"
+  },
+  {
+    "card": "SeekingEdge",
+    "upgraded": false,
+    "title": "追踪之刃",
+    "filename": "Seeking_edge.png"
+  },
+  {
+    "card": "SeekingEdge",
+    "upgraded": true,
+    "title": "追踪之刃+",
+    "filename": "Seeking_edge_upgrade.png"
+  },
+  {
+    "card": "SentryMode",
+    "upgraded": false,
+    "title": "哨卫模式",
+    "filename": "Sentry_mode.png"
+  },
+  {
+    "card": "SentryMode",
+    "upgraded": true,
+    "title": "哨卫模式+",
+    "filename": "Sentry_mode_upgrade.png"
+  },
+  {
+    "card": "SerpentForm",
+    "upgraded": false,
+    "title": "群蛇形态",
+    "filename": "Serpent_form.png"
+  },
+  {
+    "card": "SerpentForm",
+    "upgraded": true,
+    "title": "群蛇形态+",
+    "filename": "Serpent_form_upgrade.png"
+  },
+  {
+    "card": "SetupStrike",
+    "upgraded": false,
+    "title": "预备打击",
+    "filename": "Setup_strike.png"
+  },
+  {
+    "card": "SetupStrike",
+    "upgraded": true,
+    "title": "预备打击+",
+    "filename": "Setup_strike_upgrade.png"
+  },
+  {
+    "card": "SevenStars",
+    "upgraded": false,
+    "title": "七星",
+    "filename": "Seven_stars.png"
+  },
+  {
+    "card": "SevenStars",
+    "upgraded": true,
+    "title": "七星+",
+    "filename": "Seven_stars_upgrade.png"
+  },
+  {
+    "card": "Severance",
+    "upgraded": false,
+    "title": "切断",
+    "filename": "Severance.png"
+  },
+  {
+    "card": "Severance",
+    "upgraded": true,
+    "title": "切断+",
+    "filename": "Severance_upgrade.png"
+  },
+  {
+    "card": "ShadowShield",
+    "upgraded": false,
+    "title": "暗影之盾",
+    "filename": "Shadow_shield.png"
+  },
+  {
+    "card": "ShadowShield",
+    "upgraded": true,
+    "title": "暗影之盾+",
+    "filename": "Shadow_shield_upgrade.png"
+  },
+  {
+    "card": "ShadowStep",
+    "upgraded": false,
+    "title": "暗影步",
+    "filename": "Shadow_step.png"
+  },
+  {
+    "card": "ShadowStep",
+    "upgraded": true,
+    "title": "暗影步+",
+    "filename": "Shadow_step_upgrade.png"
+  },
+  {
+    "card": "Shadowmeld",
+    "upgraded": false,
+    "title": "融入暗影",
+    "filename": "Shadowmeld.png"
+  },
+  {
+    "card": "Shadowmeld",
+    "upgraded": true,
+    "title": "融入暗影+",
+    "filename": "Shadowmeld_upgrade.png"
+  },
+  {
+    "card": "SharedFate",
+    "upgraded": false,
+    "title": "命运同担",
+    "filename": "Shared_fate.png"
+  },
+  {
+    "card": "SharedFate",
+    "upgraded": true,
+    "title": "命运同担+",
+    "filename": "Shared_fate_upgrade.png"
+  },
+  {
+    "card": "Shatter",
+    "upgraded": false,
+    "title": "打碎",
+    "filename": "Shatter.png"
+  },
+  {
+    "card": "Shatter",
+    "upgraded": true,
+    "title": "打碎+",
+    "filename": "Shatter_upgrade.png"
+  },
+  {
+    "card": "ShiningStrike",
+    "upgraded": false,
+    "title": "明耀打击",
+    "filename": "Shining_strike.png"
+  },
+  {
+    "card": "ShiningStrike",
+    "upgraded": true,
+    "title": "明耀打击+",
+    "filename": "Shining_strike_upgrade.png"
+  },
+  {
+    "card": "Shroud",
+    "upgraded": false,
+    "title": "厄运之衣",
+    "filename": "Shroud.png"
+  },
+  {
+    "card": "Shroud",
+    "upgraded": true,
+    "title": "厄运之衣+",
+    "filename": "Shroud_upgrade.png"
+  },
+  {
+    "card": "ShrugItOff",
+    "upgraded": false,
+    "title": "耸肩无视",
+    "filename": "Shrug_it_off.png"
+  },
+  {
+    "card": "ShrugItOff",
+    "upgraded": true,
+    "title": "耸肩无视+",
+    "filename": "Shrug_it_off_upgrade.png"
+  },
+  {
+    "card": "SicEm",
+    "upgraded": false,
+    "title": "紧追不放",
+    "filename": "Sic_em.png"
+  },
+  {
+    "card": "SicEm",
+    "upgraded": true,
+    "title": "紧追不放+",
+    "filename": "Sic_em_upgrade.png"
+  },
+  {
+    "card": "Sidestep",
+    "upgraded": false,
+    "title": "侧步",
+    "filename": "Sidestep.png"
+  },
+  {
+    "card": "Sidestep",
+    "upgraded": true,
+    "title": "侧步+",
+    "filename": "Sidestep_upgrade.png"
+  },
+  {
+    "card": "SignalBoost",
+    "upgraded": false,
+    "title": "信号增强",
+    "filename": "Signal_boost.png"
+  },
+  {
+    "card": "SignalBoost",
+    "upgraded": true,
+    "title": "信号增强+",
+    "filename": "Signal_boost_upgrade.png"
+  },
+  {
+    "card": "Skewer",
+    "upgraded": false,
+    "title": "串刺",
+    "filename": "Skewer.png"
+  },
+  {
+    "card": "Skewer",
+    "upgraded": true,
+    "title": "串刺+",
+    "filename": "Skewer_upgrade.png"
+  },
+  {
+    "card": "Skim",
+    "upgraded": false,
+    "title": "快速检索",
+    "filename": "Skim.png"
+  },
+  {
+    "card": "Skim",
+    "upgraded": true,
+    "title": "快速检索+",
+    "filename": "Skim_upgrade.png"
+  },
+  {
+    "card": "SleightOfFlesh",
+    "upgraded": false,
+    "title": "血肉戏法",
+    "filename": "Sleight_of_flesh.png"
+  },
+  {
+    "card": "SleightOfFlesh",
+    "upgraded": true,
+    "title": "血肉戏法+",
+    "filename": "Sleight_of_flesh_upgrade.png"
+  },
+  {
+    "card": "Slice",
+    "upgraded": false,
+    "title": "切割",
+    "filename": "Slice.png"
+  },
+  {
+    "card": "Slice",
+    "upgraded": true,
+    "title": "切割+",
+    "filename": "Slice_upgrade.png"
+  },
+  {
+    "card": "Smokestack",
+    "upgraded": false,
+    "title": "烟囱",
+    "filename": "Smokestack.png"
+  },
+  {
+    "card": "Smokestack",
+    "upgraded": true,
+    "title": "烟囱+",
+    "filename": "Smokestack_upgrade.png"
+  },
+  {
+    "card": "Snakebite",
+    "upgraded": false,
+    "title": "蛇咬",
+    "filename": "Snakebite.png"
+  },
+  {
+    "card": "Snakebite",
+    "upgraded": true,
+    "title": "蛇咬+",
+    "filename": "Snakebite_upgrade.png"
+  },
+  {
+    "card": "Snap",
+    "upgraded": false,
+    "title": "响指",
+    "filename": "Snap.png"
+  },
+  {
+    "card": "Snap",
+    "upgraded": true,
+    "title": "响指+",
+    "filename": "Snap_upgrade.png"
+  },
+  {
+    "card": "SolarStrike",
+    "upgraded": false,
+    "title": "太阳打击",
+    "filename": "Solar_strike.png"
+  },
+  {
+    "card": "SolarStrike",
+    "upgraded": true,
+    "title": "太阳打击+",
+    "filename": "Solar_strike_upgrade.png"
+  },
+  {
+    "card": "SoulStorm",
+    "upgraded": false,
+    "title": "灵魂风暴",
+    "filename": "Soul_storm.png"
+  },
+  {
+    "card": "SoulStorm",
+    "upgraded": true,
+    "title": "灵魂风暴+",
+    "filename": "Soul_storm_upgrade.png"
+  },
+  {
+    "card": "Sow",
+    "upgraded": false,
+    "title": "播种",
+    "filename": "Sow.png"
+  },
+  {
+    "card": "Sow",
+    "upgraded": true,
+    "title": "播种+",
+    "filename": "Sow_upgrade.png"
+  },
+  {
+    "card": "SpectrumShift",
+    "upgraded": false,
+    "title": "光谱偏移",
+    "filename": "Spectrum_shift.png"
+  },
+  {
+    "card": "SpectrumShift",
+    "upgraded": true,
+    "title": "光谱偏移+",
+    "filename": "Spectrum_shift_upgrade.png"
+  },
+  {
+    "card": "Speedster",
+    "upgraded": false,
+    "title": "速行者",
+    "filename": "Speedster.png"
+  },
+  {
+    "card": "Speedster",
+    "upgraded": true,
+    "title": "速行者+",
+    "filename": "Speedster_upgrade.png"
+  },
+  {
+    "card": "Spinner",
+    "upgraded": false,
+    "title": "旋转工艺",
+    "filename": "Spinner.png"
+  },
+  {
+    "card": "Spinner",
+    "upgraded": true,
+    "title": "旋转工艺+",
+    "filename": "Spinner_upgrade.png"
+  },
+  {
+    "card": "SpiritOfAsh",
+    "upgraded": false,
+    "title": "灰烬之灵",
+    "filename": "Spirit_of_ash.png"
+  },
+  {
+    "card": "SpiritOfAsh",
+    "upgraded": true,
+    "title": "灰烬之灵+",
+    "filename": "Spirit_of_ash_upgrade.png"
+  },
+  {
+    "card": "Spite",
+    "upgraded": false,
+    "title": "怨恨",
+    "filename": "Spite.png"
+  },
+  {
+    "card": "Spite",
+    "upgraded": true,
+    "title": "怨恨+",
+    "filename": "Spite_upgrade.png"
+  },
+  {
+    "card": "SpoilsOfBattle",
+    "upgraded": false,
+    "title": "战利品",
+    "filename": "Spoils_of_battle.png"
+  },
+  {
+    "card": "SpoilsOfBattle",
+    "upgraded": true,
+    "title": "战利品+",
+    "filename": "Spoils_of_battle_upgrade.png"
+  },
+  {
+    "card": "Spur",
+    "upgraded": false,
+    "title": "增生",
+    "filename": "Spur.png"
+  },
+  {
+    "card": "Spur",
+    "upgraded": true,
+    "title": "增生+",
+    "filename": "Spur_upgrade.png"
+  },
+  {
+    "card": "Squeeze",
+    "upgraded": false,
+    "title": "榨取",
+    "filename": "Squeeze.png"
+  },
+  {
+    "card": "Squeeze",
+    "upgraded": true,
+    "title": "榨取+",
+    "filename": "Squeeze_upgrade.png"
+  },
+  {
+    "card": "Stampede",
+    "upgraded": false,
+    "title": "惊逃",
+    "filename": "Stampede.png"
+  },
+  {
+    "card": "Stampede",
+    "upgraded": true,
+    "title": "惊逃+",
+    "filename": "Stampede_upgrade.png"
+  },
+  {
+    "card": "Stardust",
+    "upgraded": false,
+    "title": "星尘",
+    "filename": "Stardust.png"
+  },
+  {
+    "card": "Stardust",
+    "upgraded": true,
+    "title": "星尘+",
+    "filename": "Stardust_upgrade.png"
+  },
+  {
+    "card": "Stoke",
+    "upgraded": false,
+    "title": "添柴",
+    "filename": "Stoke.png"
+  },
+  {
+    "card": "Stoke",
+    "upgraded": true,
+    "title": "添柴+",
+    "filename": "Stoke_upgrade.png"
+  },
+  {
+    "card": "Stomp",
+    "upgraded": false,
+    "title": "踩踏",
+    "filename": "Stomp.png"
+  },
+  {
+    "card": "Stomp",
+    "upgraded": true,
+    "title": "踩踏+",
+    "filename": "Stomp_upgrade.png"
+  },
+  {
+    "card": "StoneArmor",
+    "upgraded": false,
+    "title": "岩石铠甲",
+    "filename": "Stone_armor.png"
+  },
+  {
+    "card": "StoneArmor",
+    "upgraded": true,
+    "title": "岩石铠甲+",
+    "filename": "Stone_armor_upgrade.png"
+  },
+  {
+    "card": "Storm",
+    "upgraded": false,
+    "title": "雷暴",
+    "filename": "Storm.png"
+  },
+  {
+    "card": "Storm",
+    "upgraded": true,
+    "title": "雷暴+",
+    "filename": "Storm_upgrade.png"
+  },
+  {
+    "card": "StormOfSteel",
+    "upgraded": false,
+    "title": "钢铁风暴",
+    "filename": "Storm_of_steel.png"
+  },
+  {
+    "card": "StormOfSteel",
+    "upgraded": true,
+    "title": "钢铁风暴+",
+    "filename": "Storm_of_steel_upgrade.png"
+  },
+  {
+    "card": "Strangle",
+    "upgraded": false,
+    "title": "紧勒",
+    "filename": "Strangle.png"
+  },
+  {
+    "card": "Strangle",
+    "upgraded": true,
+    "title": "紧勒+",
+    "filename": "Strangle_upgrade.png"
+  },
+  {
+    "card": "StrikeDefect",
+    "upgraded": false,
+    "title": "打击",
+    "filename": "Strike_defect.png"
+  },
+  {
+    "card": "StrikeDefect",
+    "upgraded": true,
+    "title": "打击+",
+    "filename": "Strike_defect_upgrade.png"
+  },
+  {
+    "card": "StrikeIronclad",
+    "upgraded": false,
+    "title": "打击",
+    "filename": "Strike_ironclad.png"
+  },
+  {
+    "card": "StrikeIronclad",
+    "upgraded": true,
+    "title": "打击+",
+    "filename": "Strike_ironclad_upgrade.png"
+  },
+  {
+    "card": "StrikeNecrobinder",
+    "upgraded": false,
+    "title": "打击",
+    "filename": "Strike_necrobinder.png"
+  },
+  {
+    "card": "StrikeNecrobinder",
+    "upgraded": true,
+    "title": "打击+",
+    "filename": "Strike_necrobinder_upgrade.png"
+  },
+  {
+    "card": "StrikeRegent",
+    "upgraded": false,
+    "title": "打击",
+    "filename": "Strike_regent.png"
+  },
+  {
+    "card": "StrikeRegent",
+    "upgraded": true,
+    "title": "打击+",
+    "filename": "Strike_regent_upgrade.png"
+  },
+  {
+    "card": "StrikeSilent",
+    "upgraded": false,
+    "title": "打击",
+    "filename": "Strike_silent.png"
+  },
+  {
+    "card": "StrikeSilent",
+    "upgraded": true,
+    "title": "打击+",
+    "filename": "Strike_silent_upgrade.png"
+  },
+  {
+    "card": "Subroutine",
+    "upgraded": false,
+    "title": "子程序",
+    "filename": "Subroutine.png"
+  },
+  {
+    "card": "Subroutine",
+    "upgraded": true,
+    "title": "子程序+",
+    "filename": "Subroutine_upgrade.png"
+  },
+  {
+    "card": "SuckerPunch",
+    "upgraded": false,
+    "title": "突然一拳",
+    "filename": "Sucker_punch.png"
+  },
+  {
+    "card": "SuckerPunch",
+    "upgraded": true,
+    "title": "突然一拳+",
+    "filename": "Sucker_punch_upgrade.png"
+  },
+  {
+    "card": "SummonForth",
+    "upgraded": false,
+    "title": "征召上前",
+    "filename": "Summon_forth.png"
+  },
+  {
+    "card": "SummonForth",
+    "upgraded": true,
+    "title": "征召上前+",
+    "filename": "Summon_forth_upgrade.png"
+  },
+  {
+    "card": "Sunder",
+    "upgraded": false,
+    "title": "分离",
+    "filename": "Sunder.png"
+  },
+  {
+    "card": "Sunder",
+    "upgraded": true,
+    "title": "分离+",
+    "filename": "Sunder_upgrade.png"
+  },
+  {
+    "card": "Supercritical",
+    "upgraded": false,
+    "title": "超临界态",
+    "filename": "Supercritical.png"
+  },
+  {
+    "card": "Supercritical",
+    "upgraded": true,
+    "title": "超临界态+",
+    "filename": "Supercritical_upgrade.png"
+  },
+  {
+    "card": "Supermassive",
+    "upgraded": false,
+    "title": "超质量体",
+    "filename": "Supermassive.png"
+  },
+  {
+    "card": "Supermassive",
+    "upgraded": true,
+    "title": "超质量体+",
+    "filename": "Supermassive_upgrade.png"
+  },
+  {
+    "card": "Survivor",
+    "upgraded": false,
+    "title": "生存者",
+    "filename": "Survivor.png"
+  },
+  {
+    "card": "Survivor",
+    "upgraded": true,
+    "title": "生存者+",
+    "filename": "Survivor_upgrade.png"
+  },
+  {
+    "card": "SweepingBeam",
+    "upgraded": false,
+    "title": "扫荡射线",
+    "filename": "Sweeping_beam.png"
+  },
+  {
+    "card": "SweepingBeam",
+    "upgraded": true,
+    "title": "扫荡射线+",
+    "filename": "Sweeping_beam_upgrade.png"
+  },
+  {
+    "card": "SwordBoomerang",
+    "upgraded": false,
+    "title": "飞剑回旋镖",
+    "filename": "Sword_boomerang.png"
+  },
+  {
+    "card": "SwordBoomerang",
+    "upgraded": true,
+    "title": "飞剑回旋镖+",
+    "filename": "Sword_boomerang_upgrade.png"
+  },
+  {
+    "card": "SwordSage",
+    "upgraded": false,
+    "title": "剑圣",
+    "filename": "Sword_sage.png"
+  },
+  {
+    "card": "SwordSage",
+    "upgraded": true,
+    "title": "剑圣+",
+    "filename": "Sword_sage_upgrade.png"
+  },
+  {
+    "card": "Synchronize",
+    "upgraded": false,
+    "title": "同步",
+    "filename": "Synchronize.png"
+  },
+  {
+    "card": "Synchronize",
+    "upgraded": true,
+    "title": "同步+",
+    "filename": "Synchronize_upgrade.png"
+  },
+  {
+    "card": "Synthesis",
+    "upgraded": false,
+    "title": "人工合成",
+    "filename": "Synthesis.png"
+  },
+  {
+    "card": "Synthesis",
+    "upgraded": true,
+    "title": "人工合成+",
+    "filename": "Synthesis_upgrade.png"
+  },
+  {
+    "card": "Tactician",
+    "upgraded": false,
+    "title": "战术大师",
+    "filename": "Tactician.png"
+  },
+  {
+    "card": "Tactician",
+    "upgraded": true,
+    "title": "战术大师+",
+    "filename": "Tactician_upgrade.png"
+  },
+  {
+    "card": "Taunt",
+    "upgraded": false,
+    "title": "挑衅",
+    "filename": "Taunt.png"
+  },
+  {
+    "card": "Taunt",
+    "upgraded": true,
+    "title": "挑衅+",
+    "filename": "Taunt_upgrade.png"
+  },
+  {
+    "card": "TearAsunder",
+    "upgraded": false,
+    "title": "扯碎",
+    "filename": "Tear_asunder.png"
+  },
+  {
+    "card": "TearAsunder",
+    "upgraded": true,
+    "title": "扯碎+",
+    "filename": "Tear_asunder_upgrade.png"
+  },
+  {
+    "card": "Tempest",
+    "upgraded": false,
+    "title": "暴风雨",
+    "filename": "Tempest.png"
+  },
+  {
+    "card": "Tempest",
+    "upgraded": true,
+    "title": "暴风雨+",
+    "filename": "Tempest_upgrade.png"
+  },
+  {
+    "card": "Terraforming",
+    "upgraded": false,
+    "title": "地形改造",
+    "filename": "Terraforming.png"
+  },
+  {
+    "card": "Terraforming",
+    "upgraded": true,
+    "title": "地形改造+",
+    "filename": "Terraforming_upgrade.png"
+  },
+  {
+    "card": "TeslaCoil",
+    "upgraded": false,
+    "title": "特斯拉线圈",
+    "filename": "Tesla_coil.png"
+  },
+  {
+    "card": "TeslaCoil",
+    "upgraded": true,
+    "title": "特斯拉线圈+",
+    "filename": "Tesla_coil_upgrade.png"
+  },
+  {
+    "card": "TheSmith",
+    "upgraded": false,
+    "title": "铸剑者",
+    "filename": "The_smith.png"
+  },
+  {
+    "card": "TheSmith",
+    "upgraded": true,
+    "title": "铸剑者+",
+    "filename": "The_smith_upgrade.png"
+  },
+  {
+    "card": "Thrash",
+    "upgraded": false,
+    "title": "痛殴",
+    "filename": "Thrash.png"
+  },
+  {
+    "card": "Thrash",
+    "upgraded": true,
+    "title": "痛殴+",
+    "filename": "Thrash_upgrade.png"
+  },
+  {
+    "card": "Thunder",
+    "upgraded": false,
+    "title": "雷霆",
+    "filename": "Thunder.png"
+  },
+  {
+    "card": "Thunder",
+    "upgraded": true,
+    "title": "雷霆+",
+    "filename": "Thunder_upgrade.png"
+  },
+  {
+    "card": "Thunderclap",
+    "upgraded": false,
+    "title": "闪电霹雳",
+    "filename": "Thunderclap.png"
+  },
+  {
+    "card": "Thunderclap",
+    "upgraded": true,
+    "title": "闪电霹雳+",
+    "filename": "Thunderclap_upgrade.png"
+  },
+  {
+    "card": "TimesUp",
+    "upgraded": false,
+    "title": "大限已至",
+    "filename": "Times_up.png"
+  },
+  {
+    "card": "TimesUp",
+    "upgraded": true,
+    "title": "大限已至+",
+    "filename": "Times_up_upgrade.png"
+  },
+  {
+    "card": "ToolsOfTheTrade",
+    "upgraded": false,
+    "title": "必备工具",
+    "filename": "Tools_of_the_trade.png"
+  },
+  {
+    "card": "ToolsOfTheTrade",
+    "upgraded": true,
+    "title": "必备工具+",
+    "filename": "Tools_of_the_trade_upgrade.png"
+  },
+  {
+    "card": "Tracking",
+    "upgraded": false,
+    "title": "跟踪",
+    "filename": "Tracking.png"
+  },
+  {
+    "card": "Tracking",
+    "upgraded": true,
+    "title": "跟踪+",
+    "filename": "Tracking_upgrade.png"
+  },
+  {
+    "card": "Transfigure",
+    "upgraded": false,
+    "title": "重构",
+    "filename": "Transfigure.png"
+  },
+  {
+    "card": "Transfigure",
+    "upgraded": true,
+    "title": "重构+",
+    "filename": "Transfigure_upgrade.png"
+  },
+  {
+    "card": "TrashToTreasure",
+    "upgraded": false,
+    "title": "化废为宝",
+    "filename": "Trash_to_treasure.png"
+  },
+  {
+    "card": "TrashToTreasure",
+    "upgraded": true,
+    "title": "化废为宝+",
+    "filename": "Trash_to_treasure_upgrade.png"
+  },
+  {
+    "card": "Tremble",
+    "upgraded": false,
+    "title": "战栗",
+    "filename": "Tremble.png"
+  },
+  {
+    "card": "Tremble",
+    "upgraded": true,
+    "title": "战栗+",
+    "filename": "Tremble_upgrade.png"
+  },
+  {
+    "card": "TrueGrit",
+    "upgraded": false,
+    "title": "坚毅",
+    "filename": "True_grit.png"
+  },
+  {
+    "card": "TrueGrit",
+    "upgraded": true,
+    "title": "坚毅+",
+    "filename": "True_grit_upgrade.png"
+  },
+  {
+    "card": "Turbo",
+    "upgraded": false,
+    "title": "内核加速",
+    "filename": "Turbo.png"
+  },
+  {
+    "card": "Turbo",
+    "upgraded": true,
+    "title": "内核加速+",
+    "filename": "Turbo_upgrade.png"
+  },
+  {
+    "card": "TwinStrike",
+    "upgraded": false,
+    "title": "双重打击",
+    "filename": "Twin_strike.png"
+  },
+  {
+    "card": "TwinStrike",
+    "upgraded": true,
+    "title": "双重打击+",
+    "filename": "Twin_strike_upgrade.png"
+  },
+  {
+    "card": "Tyranny",
+    "upgraded": false,
+    "title": "暴政",
+    "filename": "Tyranny.png"
+  },
+  {
+    "card": "Tyranny",
+    "upgraded": true,
+    "title": "暴政+",
+    "filename": "Tyranny_upgrade.png"
+  },
+  {
+    "card": "Undeath",
+    "upgraded": false,
+    "title": "不死",
+    "filename": "Undeath.png"
+  },
+  {
+    "card": "Undeath",
+    "upgraded": true,
+    "title": "不死+",
+    "filename": "Undeath_upgrade.png"
+  },
+  {
+    "card": "Unleash",
+    "upgraded": false,
+    "title": "出击",
+    "filename": "Unleash.png"
+  },
+  {
+    "card": "Unleash",
+    "upgraded": true,
+    "title": "出击+",
+    "filename": "Unleash_upgrade.png"
+  },
+  {
+    "card": "Unmovable",
+    "upgraded": false,
+    "title": "坚定不移",
+    "filename": "Unmovable.png"
+  },
+  {
+    "card": "Unmovable",
+    "upgraded": true,
+    "title": "坚定不移+",
+    "filename": "Unmovable_upgrade.png"
+  },
+  {
+    "card": "Unrelenting",
+    "upgraded": false,
+    "title": "无情猛攻",
+    "filename": "Unrelenting.png"
+  },
+  {
+    "card": "Unrelenting",
+    "upgraded": true,
+    "title": "无情猛攻+",
+    "filename": "Unrelenting_upgrade.png"
+  },
+  {
+    "card": "Untouchable",
+    "upgraded": false,
+    "title": "触不可及",
+    "filename": "Untouchable.png"
+  },
+  {
+    "card": "Untouchable",
+    "upgraded": true,
+    "title": "触不可及+",
+    "filename": "Untouchable_upgrade.png"
+  },
+  {
+    "card": "UpMySleeve",
+    "upgraded": false,
+    "title": "袖里乾坤",
+    "filename": "Up_my_sleeve.png"
+  },
+  {
+    "card": "UpMySleeve",
+    "upgraded": true,
+    "title": "袖里乾坤+",
+    "filename": "Up_my_sleeve_upgrade.png"
+  },
+  {
+    "card": "Uppercut",
+    "upgraded": false,
+    "title": "上勾拳",
+    "filename": "Uppercut.png"
+  },
+  {
+    "card": "Uppercut",
+    "upgraded": true,
+    "title": "上勾拳+",
+    "filename": "Uppercut_upgrade.png"
+  },
+  {
+    "card": "Uproar",
+    "upgraded": false,
+    "title": "骚动",
+    "filename": "Uproar.png"
+  },
+  {
+    "card": "Uproar",
+    "upgraded": true,
+    "title": "骚动+",
+    "filename": "Uproar_upgrade.png"
+  },
+  {
+    "card": "Veilpiercer",
+    "upgraded": false,
+    "title": "刺破帷幕",
+    "filename": "Veilpiercer.png"
+  },
+  {
+    "card": "Veilpiercer",
+    "upgraded": true,
+    "title": "刺破帷幕+",
+    "filename": "Veilpiercer_upgrade.png"
+  },
+  {
+    "card": "Venerate",
+    "upgraded": false,
+    "title": "崇拜",
+    "filename": "Venerate.png"
+  },
+  {
+    "card": "Venerate",
+    "upgraded": true,
+    "title": "崇拜+",
+    "filename": "Venerate_upgrade.png"
+  },
+  {
+    "card": "Vicious",
+    "upgraded": false,
+    "title": "凶恶",
+    "filename": "Vicious.png"
+  },
+  {
+    "card": "Vicious",
+    "upgraded": true,
+    "title": "凶恶+",
+    "filename": "Vicious_upgrade.png"
+  },
+  {
+    "card": "VoidForm",
+    "upgraded": false,
+    "title": "虚空形态",
+    "filename": "Void_form.png"
+  },
+  {
+    "card": "VoidForm",
+    "upgraded": true,
+    "title": "虚空形态+",
+    "filename": "Void_form_upgrade.png"
+  },
+  {
+    "card": "Voltaic",
+    "upgraded": false,
+    "title": "电流相生",
+    "filename": "Voltaic.png"
+  },
+  {
+    "card": "Voltaic",
+    "upgraded": true,
+    "title": "电流相生+",
+    "filename": "Voltaic_upgrade.png"
+  },
+  {
+    "card": "WellLaidPlans",
+    "upgraded": false,
+    "title": "计划妥当",
+    "filename": "Well_laid_plans.png"
+  },
+  {
+    "card": "WellLaidPlans",
+    "upgraded": true,
+    "title": "计划妥当+",
+    "filename": "Well_laid_plans_upgrade.png"
+  },
+  {
+    "card": "Whirlwind",
+    "upgraded": false,
+    "title": "旋风斩",
+    "filename": "Whirlwind.png"
+  },
+  {
+    "card": "Whirlwind",
+    "upgraded": true,
+    "title": "旋风斩+",
+    "filename": "Whirlwind_upgrade.png"
+  },
+  {
+    "card": "WhiteNoise",
+    "upgraded": false,
+    "title": "白噪声",
+    "filename": "White_noise.png"
+  },
+  {
+    "card": "WhiteNoise",
+    "upgraded": true,
+    "title": "白噪声+",
+    "filename": "White_noise_upgrade.png"
+  },
+  {
+    "card": "Wisp",
+    "upgraded": false,
+    "title": "鬼火",
+    "filename": "Wisp.png"
+  },
+  {
+    "card": "Wisp",
+    "upgraded": true,
+    "title": "鬼火+",
+    "filename": "Wisp_upgrade.png"
+  },
+  {
+    "card": "WroughtInWar",
+    "upgraded": false,
+    "title": "战火铸就",
+    "filename": "Wrought_in_war.png"
+  },
+  {
+    "card": "WroughtInWar",
+    "upgraded": true,
+    "title": "战火铸就+",
+    "filename": "Wrought_in_war_upgrade.png"
+  },
+  {
+    "card": "Zap",
+    "upgraded": false,
+    "title": "电击",
+    "filename": "Zap.png"
+  },
+  {
+    "card": "Zap",
+    "upgraded": true,
+    "title": "电击+",
+    "filename": "Zap_upgrade.png"
+  }
+]
